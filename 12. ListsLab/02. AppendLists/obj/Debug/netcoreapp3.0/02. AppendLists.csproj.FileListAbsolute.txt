@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\bin\Debug\netcoreapp3.0\02. AppendLists.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\bin\Debug\netcoreapp3.0\02. AppendLists.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\bin\Debug\netcoreapp3.0\02. AppendLists.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\bin\Debug\netcoreapp3.0\02. AppendLists.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\bin\Debug\netcoreapp3.0\02. AppendLists.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\bin\Debug\netcoreapp3.0\02. AppendLists.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\obj\Debug\netcoreapp3.0\02. AppendLists.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\obj\Debug\netcoreapp3.0\02. AppendLists.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\obj\Debug\netcoreapp3.0\02. AppendLists.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\obj\Debug\netcoreapp3.0\02. AppendLists.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\02. AppendLists\obj\Debug\netcoreapp3.0\02. AppendLists.pdb

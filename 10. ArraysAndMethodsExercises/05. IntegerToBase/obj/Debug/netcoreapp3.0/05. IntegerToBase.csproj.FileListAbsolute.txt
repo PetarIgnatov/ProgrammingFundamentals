@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\bin\Debug\netcoreapp3.0\05. IntegerToBase.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\bin\Debug\netcoreapp3.0\05. IntegerToBase.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\bin\Debug\netcoreapp3.0\05. IntegerToBase.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\bin\Debug\netcoreapp3.0\05. IntegerToBase.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\bin\Debug\netcoreapp3.0\05. IntegerToBase.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\bin\Debug\netcoreapp3.0\05. IntegerToBase.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\obj\Debug\netcoreapp3.0\05. IntegerToBase.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\obj\Debug\netcoreapp3.0\05. IntegerToBase.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\obj\Debug\netcoreapp3.0\05. IntegerToBase.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\obj\Debug\netcoreapp3.0\05. IntegerToBase.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\05. IntegerToBase\obj\Debug\netcoreapp3.0\05. IntegerToBase.pdb

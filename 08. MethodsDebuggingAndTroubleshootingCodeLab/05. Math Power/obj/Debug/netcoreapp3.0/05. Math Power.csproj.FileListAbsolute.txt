@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\bin\Debug\netcoreapp3.0\05. Math Power.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\bin\Debug\netcoreapp3.0\05. Math Power.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\bin\Debug\netcoreapp3.0\05. Math Power.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\bin\Debug\netcoreapp3.0\05. Math Power.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\bin\Debug\netcoreapp3.0\05. Math Power.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\bin\Debug\netcoreapp3.0\05. Math Power.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\obj\Debug\netcoreapp3.0\05. Math Power.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\obj\Debug\netcoreapp3.0\05. Math Power.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\obj\Debug\netcoreapp3.0\05. Math Power.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\05. Math Power\obj\Debug\netcoreapp3.0\05. Math Power.pdb

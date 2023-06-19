@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\bin\Debug\netcoreapp3.0\07. ResizableArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\bin\Debug\netcoreapp3.0\07. ResizableArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\bin\Debug\netcoreapp3.0\07. ResizableArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\bin\Debug\netcoreapp3.0\07. ResizableArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\bin\Debug\netcoreapp3.0\07. ResizableArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\bin\Debug\netcoreapp3.0\07. ResizableArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\obj\Debug\netcoreapp3.0\07. ResizableArray.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\obj\Debug\netcoreapp3.0\07. ResizableArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\obj\Debug\netcoreapp3.0\07. ResizableArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\obj\Debug\netcoreapp3.0\07. ResizableArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\07. ResizableArray\obj\Debug\netcoreapp3.0\07. ResizableArray.pdb

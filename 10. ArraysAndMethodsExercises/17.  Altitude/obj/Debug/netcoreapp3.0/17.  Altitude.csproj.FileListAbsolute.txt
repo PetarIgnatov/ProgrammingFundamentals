@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\bin\Debug\netcoreapp3.0\17.  Altitude.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\bin\Debug\netcoreapp3.0\17.  Altitude.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\bin\Debug\netcoreapp3.0\17.  Altitude.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\bin\Debug\netcoreapp3.0\17.  Altitude.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\bin\Debug\netcoreapp3.0\17.  Altitude.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\bin\Debug\netcoreapp3.0\17.  Altitude.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\obj\Debug\netcoreapp3.0\17.  Altitude.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\obj\Debug\netcoreapp3.0\17.  Altitude.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\obj\Debug\netcoreapp3.0\17.  Altitude.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\obj\Debug\netcoreapp3.0\17.  Altitude.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\17.  Altitude\obj\Debug\netcoreapp3.0\17.  Altitude.pdb

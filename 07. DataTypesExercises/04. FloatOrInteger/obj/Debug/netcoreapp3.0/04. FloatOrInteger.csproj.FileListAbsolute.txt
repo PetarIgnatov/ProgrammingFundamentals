@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\obj\Debug\netcoreapp3.0\04. FloatOrInteger.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\obj\Debug\netcoreapp3.0\04. FloatOrInteger.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\obj\Debug\netcoreapp3.0\04. FloatOrInteger.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\bin\Debug\netcoreapp3.0\04. FloatOrInteger.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\bin\Debug\netcoreapp3.0\04. FloatOrInteger.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\bin\Debug\netcoreapp3.0\04. FloatOrInteger.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\bin\Debug\netcoreapp3.0\04. FloatOrInteger.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\bin\Debug\netcoreapp3.0\04. FloatOrInteger.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\bin\Debug\netcoreapp3.0\04. FloatOrInteger.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\obj\Debug\netcoreapp3.0\04. FloatOrInteger.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\04. FloatOrInteger\obj\Debug\netcoreapp3.0\04. FloatOrInteger.pdb

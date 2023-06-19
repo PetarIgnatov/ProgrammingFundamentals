@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\bin\Debug\netcoreapp3.1\05. FlattenDictionary.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\bin\Debug\netcoreapp3.1\05. FlattenDictionary.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\bin\Debug\netcoreapp3.1\05. FlattenDictionary.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\bin\Debug\netcoreapp3.1\05. FlattenDictionary.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\bin\Debug\netcoreapp3.1\05. FlattenDictionary.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\bin\Debug\netcoreapp3.1\05. FlattenDictionary.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\obj\Debug\netcoreapp3.1\05. FlattenDictionary.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\obj\Debug\netcoreapp3.1\05. FlattenDictionary.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\obj\Debug\netcoreapp3.1\05. FlattenDictionary.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\obj\Debug\netcoreapp3.1\05. FlattenDictionary.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\05. FlattenDictionary\obj\Debug\netcoreapp3.1\05. FlattenDictionary.pdb

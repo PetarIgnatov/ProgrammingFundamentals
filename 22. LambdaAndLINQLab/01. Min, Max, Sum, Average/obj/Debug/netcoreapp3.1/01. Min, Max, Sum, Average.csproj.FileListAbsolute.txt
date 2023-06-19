@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\bin\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\bin\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\bin\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\bin\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\bin\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\bin\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\obj\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\obj\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\obj\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\obj\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\01. Min, Max, Sum, Average\obj\Debug\netcoreapp3.1\01. Min, Max, Sum, Average.pdb

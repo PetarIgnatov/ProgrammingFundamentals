@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\bin\Debug\netcoreapp3.0\06. IncrementVariable.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\bin\Debug\netcoreapp3.0\06. IncrementVariable.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\bin\Debug\netcoreapp3.0\06. IncrementVariable.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\bin\Debug\netcoreapp3.0\06. IncrementVariable.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\bin\Debug\netcoreapp3.0\06. IncrementVariable.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\bin\Debug\netcoreapp3.0\06. IncrementVariable.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\obj\Debug\netcoreapp3.0\06. IncrementVariable.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\obj\Debug\netcoreapp3.0\06. IncrementVariable.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\obj\Debug\netcoreapp3.0\06. IncrementVariable.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\obj\Debug\netcoreapp3.0\06. IncrementVariable.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\06. IncrementVariable\obj\Debug\netcoreapp3.0\06. IncrementVariable.csprojAssemblyReference.cache

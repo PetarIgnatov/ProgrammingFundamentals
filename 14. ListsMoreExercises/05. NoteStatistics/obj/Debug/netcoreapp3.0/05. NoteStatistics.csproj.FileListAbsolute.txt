@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\bin\Debug\netcoreapp3.0\05. NoteStatistics.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\bin\Debug\netcoreapp3.0\05. NoteStatistics.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\bin\Debug\netcoreapp3.0\05. NoteStatistics.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\bin\Debug\netcoreapp3.0\05. NoteStatistics.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\bin\Debug\netcoreapp3.0\05. NoteStatistics.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\bin\Debug\netcoreapp3.0\05. NoteStatistics.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\obj\Debug\netcoreapp3.0\05. NoteStatistics.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\obj\Debug\netcoreapp3.0\05. NoteStatistics.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\obj\Debug\netcoreapp3.0\05. NoteStatistics.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\obj\Debug\netcoreapp3.0\05. NoteStatistics.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\05. NoteStatistics\obj\Debug\netcoreapp3.0\05. NoteStatistics.pdb

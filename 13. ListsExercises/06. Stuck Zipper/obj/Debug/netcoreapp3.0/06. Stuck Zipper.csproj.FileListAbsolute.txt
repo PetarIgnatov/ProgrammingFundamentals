@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\bin\Debug\netcoreapp3.0\06. Stuck Zipper.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\bin\Debug\netcoreapp3.0\06. Stuck Zipper.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\bin\Debug\netcoreapp3.0\06. Stuck Zipper.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\bin\Debug\netcoreapp3.0\06. Stuck Zipper.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\bin\Debug\netcoreapp3.0\06. Stuck Zipper.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\bin\Debug\netcoreapp3.0\06. Stuck Zipper.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\obj\Debug\netcoreapp3.0\06. Stuck Zipper.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\obj\Debug\netcoreapp3.0\06. Stuck Zipper.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\obj\Debug\netcoreapp3.0\06. Stuck Zipper.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\obj\Debug\netcoreapp3.0\06. Stuck Zipper.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\06. Stuck Zipper\obj\Debug\netcoreapp3.0\06. Stuck Zipper.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\bin\Debug\netcoreapp3.0\09. LargestElementInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\bin\Debug\netcoreapp3.0\09. LargestElementInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\bin\Debug\netcoreapp3.0\09. LargestElementInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\bin\Debug\netcoreapp3.0\09. LargestElementInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\bin\Debug\netcoreapp3.0\09. LargestElementInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\bin\Debug\netcoreapp3.0\09. LargestElementInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\obj\Debug\netcoreapp3.0\09. LargestElementInArray.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\obj\Debug\netcoreapp3.0\09. LargestElementInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\obj\Debug\netcoreapp3.0\09. LargestElementInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\obj\Debug\netcoreapp3.0\09. LargestElementInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\09. LargestElementInArray\obj\Debug\netcoreapp3.0\09. LargestElementInArray.pdb

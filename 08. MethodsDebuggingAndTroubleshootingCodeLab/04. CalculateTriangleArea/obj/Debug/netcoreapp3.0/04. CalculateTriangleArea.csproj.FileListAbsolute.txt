@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\bin\Debug\netcoreapp3.0\04. CalculateTriangleArea.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\bin\Debug\netcoreapp3.0\04. CalculateTriangleArea.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\bin\Debug\netcoreapp3.0\04. CalculateTriangleArea.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\bin\Debug\netcoreapp3.0\04. CalculateTriangleArea.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\bin\Debug\netcoreapp3.0\04. CalculateTriangleArea.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\bin\Debug\netcoreapp3.0\04. CalculateTriangleArea.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\obj\Debug\netcoreapp3.0\04. CalculateTriangleArea.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\obj\Debug\netcoreapp3.0\04. CalculateTriangleArea.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\obj\Debug\netcoreapp3.0\04. CalculateTriangleArea.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\obj\Debug\netcoreapp3.0\04. CalculateTriangleArea.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\04. CalculateTriangleArea\obj\Debug\netcoreapp3.0\04. CalculateTriangleArea.pdb

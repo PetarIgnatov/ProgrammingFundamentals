@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\bin\Debug\netcoreapp3.1\05. ClosestTwoPoints.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\bin\Debug\netcoreapp3.1\05. ClosestTwoPoints.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\bin\Debug\netcoreapp3.1\05. ClosestTwoPoints.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\bin\Debug\netcoreapp3.1\05. ClosestTwoPoints.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\bin\Debug\netcoreapp3.1\05. ClosestTwoPoints.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\bin\Debug\netcoreapp3.1\05. ClosestTwoPoints.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\obj\Debug\netcoreapp3.1\05. ClosestTwoPoints.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\obj\Debug\netcoreapp3.1\05. ClosestTwoPoints.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\obj\Debug\netcoreapp3.1\05. ClosestTwoPoints.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\obj\Debug\netcoreapp3.1\05. ClosestTwoPoints.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\05. ClosestTwoPoints\obj\Debug\netcoreapp3.1\05. ClosestTwoPoints.pdb

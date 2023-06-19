@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\bin\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\bin\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\bin\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\bin\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\bin\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\bin\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\obj\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\obj\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\obj\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\12. VariableInHexadecimalFormat\obj\Debug\netcoreapp3.0\12. VariableInHexadecimalFormat.pdb

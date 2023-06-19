@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\bin\Debug\netcoreapp3.0\03. StringRepeater.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\bin\Debug\netcoreapp3.0\03. StringRepeater.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\bin\Debug\netcoreapp3.0\03. StringRepeater.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\bin\Debug\netcoreapp3.0\03. StringRepeater.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\bin\Debug\netcoreapp3.0\03. StringRepeater.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\bin\Debug\netcoreapp3.0\03. StringRepeater.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\obj\Debug\netcoreapp3.0\03. StringRepeater.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\obj\Debug\netcoreapp3.0\03. StringRepeater.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\obj\Debug\netcoreapp3.0\03. StringRepeater.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\obj\Debug\netcoreapp3.0\03. StringRepeater.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\03. StringRepeater\obj\Debug\netcoreapp3.0\03. StringRepeater.pdb

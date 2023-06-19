@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\bin\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\bin\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\bin\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\bin\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\bin\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\bin\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\obj\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\obj\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\obj\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\5. CountOfOddNumbersInArray\obj\Debug\netcoreapp3.0\5. CountOfOddNumbersInArray.pdb

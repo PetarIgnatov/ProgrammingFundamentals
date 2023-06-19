@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\bin\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\bin\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\bin\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\bin\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\bin\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\bin\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\obj\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\obj\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\obj\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\obj\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\05. Dict-Ref-Advanced\obj\Debug\netcoreapp3.1\05. Dict-Ref-Advanced.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\bin\Debug\netcoreapp3.1\04. SoftUniBeerPong.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\bin\Debug\netcoreapp3.1\04. SoftUniBeerPong.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\bin\Debug\netcoreapp3.1\04. SoftUniBeerPong.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\bin\Debug\netcoreapp3.1\04. SoftUniBeerPong.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\bin\Debug\netcoreapp3.1\04. SoftUniBeerPong.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\bin\Debug\netcoreapp3.1\04. SoftUniBeerPong.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\obj\Debug\netcoreapp3.1\04. SoftUniBeerPong.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\obj\Debug\netcoreapp3.1\04. SoftUniBeerPong.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\obj\Debug\netcoreapp3.1\04. SoftUniBeerPong.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\obj\Debug\netcoreapp3.1\04. SoftUniBeerPong.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\04. SoftUniBeerPong\obj\Debug\netcoreapp3.1\04. SoftUniBeerPong.pdb

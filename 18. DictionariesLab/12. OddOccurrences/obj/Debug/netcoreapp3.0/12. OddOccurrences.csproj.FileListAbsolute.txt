@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\bin\Debug\netcoreapp3.0\12. OddOccurrences.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\bin\Debug\netcoreapp3.0\12. OddOccurrences.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\bin\Debug\netcoreapp3.0\12. OddOccurrences.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\bin\Debug\netcoreapp3.0\12. OddOccurrences.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\bin\Debug\netcoreapp3.0\12. OddOccurrences.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\bin\Debug\netcoreapp3.0\12. OddOccurrences.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\obj\Debug\netcoreapp3.0\12. OddOccurrences.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\obj\Debug\netcoreapp3.0\12. OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\obj\Debug\netcoreapp3.0\12. OddOccurrences.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\obj\Debug\netcoreapp3.0\12. OddOccurrences.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\18. DictionariesLab\12. OddOccurrences\obj\Debug\netcoreapp3.0\12. OddOccurrences.pdb

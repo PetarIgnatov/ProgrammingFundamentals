@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\bin\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\bin\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\bin\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\bin\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\bin\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\bin\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\obj\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\obj\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\obj\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\15. CountOfCapitalLettersInArray\obj\Debug\netcoreapp3.0\15. CountOfCapitalLettersInArray.pdb

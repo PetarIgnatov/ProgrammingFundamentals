@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\bin\Debug\netcoreapp3.1\02. Dict-Ref.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\bin\Debug\netcoreapp3.1\02. Dict-Ref.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\bin\Debug\netcoreapp3.1\02. Dict-Ref.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\bin\Debug\netcoreapp3.1\02. Dict-Ref.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\bin\Debug\netcoreapp3.1\02. Dict-Ref.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\bin\Debug\netcoreapp3.1\02. Dict-Ref.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\obj\Debug\netcoreapp3.1\02. Dict-Ref.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\obj\Debug\netcoreapp3.1\02. Dict-Ref.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\obj\Debug\netcoreapp3.1\02. Dict-Ref.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\obj\Debug\netcoreapp3.1\02. Dict-Ref.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\02. Dict-Ref\obj\Debug\netcoreapp3.1\02. Dict-Ref.pdb

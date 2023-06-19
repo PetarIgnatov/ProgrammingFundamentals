@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\obj\Debug\netcoreapp3.1\04. ExamShopping.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\obj\Debug\netcoreapp3.1\04. ExamShopping.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\obj\Debug\netcoreapp3.1\04. ExamShopping.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\bin\Debug\netcoreapp3.1\04. ExamShopping.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\bin\Debug\netcoreapp3.1\04. ExamShopping.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\bin\Debug\netcoreapp3.1\04. ExamShopping.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\bin\Debug\netcoreapp3.1\04. ExamShopping.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\bin\Debug\netcoreapp3.1\04. ExamShopping.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\bin\Debug\netcoreapp3.1\04. ExamShopping.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\obj\Debug\netcoreapp3.1\04. ExamShopping.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\04. ExamShopping\obj\Debug\netcoreapp3.1\04. ExamShopping.pdb

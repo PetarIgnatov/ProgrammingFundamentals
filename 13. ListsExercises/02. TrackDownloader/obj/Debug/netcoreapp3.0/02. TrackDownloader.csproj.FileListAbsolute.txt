@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\bin\Debug\netcoreapp3.0\02. TrackDownloader.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\bin\Debug\netcoreapp3.0\02. TrackDownloader.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\bin\Debug\netcoreapp3.0\02. TrackDownloader.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\bin\Debug\netcoreapp3.0\02. TrackDownloader.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\bin\Debug\netcoreapp3.0\02. TrackDownloader.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\bin\Debug\netcoreapp3.0\02. TrackDownloader.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\obj\Debug\netcoreapp3.0\02. TrackDownloader.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\obj\Debug\netcoreapp3.0\02. TrackDownloader.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\obj\Debug\netcoreapp3.0\02. TrackDownloader.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\obj\Debug\netcoreapp3.0\02. TrackDownloader.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\02. TrackDownloader\obj\Debug\netcoreapp3.0\02. TrackDownloader.pdb

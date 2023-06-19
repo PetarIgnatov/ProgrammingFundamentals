@@ -1,0 +1,10 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\bin\Debug\netcoreapp3.1\04. Shellbound.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\bin\Debug\netcoreapp3.1\04. Shellbound.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\bin\Debug\netcoreapp3.1\04. Shellbound.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\bin\Debug\netcoreapp3.1\04. Shellbound.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\bin\Debug\netcoreapp3.1\04. Shellbound.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\bin\Debug\netcoreapp3.1\04. Shellbound.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\obj\Debug\netcoreapp3.1\04. Shellbound.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\obj\Debug\netcoreapp3.1\04. Shellbound.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\obj\Debug\netcoreapp3.1\04. Shellbound.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\04. Shellbound\obj\Debug\netcoreapp3.1\04. Shellbound.pdb

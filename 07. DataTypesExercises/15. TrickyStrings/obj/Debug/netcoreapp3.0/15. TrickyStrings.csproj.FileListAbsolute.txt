@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\bin\Debug\netcoreapp3.0\15. TrickyStrings.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\bin\Debug\netcoreapp3.0\15. TrickyStrings.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\bin\Debug\netcoreapp3.0\15. TrickyStrings.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\bin\Debug\netcoreapp3.0\15. TrickyStrings.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\bin\Debug\netcoreapp3.0\15. TrickyStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\bin\Debug\netcoreapp3.0\15. TrickyStrings.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\obj\Debug\netcoreapp3.0\15. TrickyStrings.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\obj\Debug\netcoreapp3.0\15. TrickyStrings.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\obj\Debug\netcoreapp3.0\15. TrickyStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\15. TrickyStrings\obj\Debug\netcoreapp3.0\15. TrickyStrings.pdb

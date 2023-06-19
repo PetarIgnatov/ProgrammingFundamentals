@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\bin\Debug\netcoreapp3.1\07. LINQuistics.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\bin\Debug\netcoreapp3.1\07. LINQuistics.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\bin\Debug\netcoreapp3.1\07. LINQuistics.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\bin\Debug\netcoreapp3.1\07. LINQuistics.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\bin\Debug\netcoreapp3.1\07. LINQuistics.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\bin\Debug\netcoreapp3.1\07. LINQuistics.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\obj\Debug\netcoreapp3.1\07. LINQuistics.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\obj\Debug\netcoreapp3.1\07. LINQuistics.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\obj\Debug\netcoreapp3.1\07. LINQuistics.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\obj\Debug\netcoreapp3.1\07. LINQuistics.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\07. LINQuistics\obj\Debug\netcoreapp3.1\07. LINQuistics.pdb

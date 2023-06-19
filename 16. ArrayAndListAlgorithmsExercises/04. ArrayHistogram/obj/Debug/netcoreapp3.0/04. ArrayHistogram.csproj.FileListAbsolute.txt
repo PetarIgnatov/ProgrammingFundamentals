@@ -1,0 +1,10 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\bin\Debug\netcoreapp3.0\04. ArrayHistogram.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\bin\Debug\netcoreapp3.0\04. ArrayHistogram.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\bin\Debug\netcoreapp3.0\04. ArrayHistogram.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\bin\Debug\netcoreapp3.0\04. ArrayHistogram.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\bin\Debug\netcoreapp3.0\04. ArrayHistogram.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\bin\Debug\netcoreapp3.0\04. ArrayHistogram.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\obj\Debug\netcoreapp3.0\04. ArrayHistogram.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\obj\Debug\netcoreapp3.0\04. ArrayHistogram.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\obj\Debug\netcoreapp3.0\04. ArrayHistogram.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\04. ArrayHistogram\obj\Debug\netcoreapp3.0\04. ArrayHistogram.pdb

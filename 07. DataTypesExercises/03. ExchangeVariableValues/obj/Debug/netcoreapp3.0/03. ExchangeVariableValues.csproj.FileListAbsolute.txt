@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\bin\Debug\netcoreapp3.0\03. ExchangeVariableValues.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\bin\Debug\netcoreapp3.0\03. ExchangeVariableValues.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\bin\Debug\netcoreapp3.0\03. ExchangeVariableValues.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\bin\Debug\netcoreapp3.0\03. ExchangeVariableValues.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\bin\Debug\netcoreapp3.0\03. ExchangeVariableValues.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\bin\Debug\netcoreapp3.0\03. ExchangeVariableValues.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\obj\Debug\netcoreapp3.0\03. ExchangeVariableValues.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\obj\Debug\netcoreapp3.0\03. ExchangeVariableValues.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\obj\Debug\netcoreapp3.0\03. ExchangeVariableValues.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\obj\Debug\netcoreapp3.0\03. ExchangeVariableValues.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\03. ExchangeVariableValues\obj\Debug\netcoreapp3.0\03. ExchangeVariableValues.pdb

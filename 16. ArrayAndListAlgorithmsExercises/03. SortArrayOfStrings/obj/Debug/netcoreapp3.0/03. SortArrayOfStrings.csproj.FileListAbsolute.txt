@@ -1,0 +1,10 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\obj\Debug\netcoreapp3.0\03. SortArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\obj\Debug\netcoreapp3.0\03. SortArrayOfStrings.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\bin\Debug\netcoreapp3.0\03. SortArrayOfStrings.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\bin\Debug\netcoreapp3.0\03. SortArrayOfStrings.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\bin\Debug\netcoreapp3.0\03. SortArrayOfStrings.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\bin\Debug\netcoreapp3.0\03. SortArrayOfStrings.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\bin\Debug\netcoreapp3.0\03. SortArrayOfStrings.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\bin\Debug\netcoreapp3.0\03. SortArrayOfStrings.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\obj\Debug\netcoreapp3.0\03. SortArrayOfStrings.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\03. SortArrayOfStrings\obj\Debug\netcoreapp3.0\03. SortArrayOfStrings.pdb

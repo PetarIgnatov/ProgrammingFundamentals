@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\bin\Debug\netcoreapp3.1\01. RegisterUsers.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\bin\Debug\netcoreapp3.1\01. RegisterUsers.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\bin\Debug\netcoreapp3.1\01. RegisterUsers.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\bin\Debug\netcoreapp3.1\01. RegisterUsers.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\bin\Debug\netcoreapp3.1\01. RegisterUsers.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\bin\Debug\netcoreapp3.1\01. RegisterUsers.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\obj\Debug\netcoreapp3.1\01. RegisterUsers.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\obj\Debug\netcoreapp3.1\01. RegisterUsers.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\obj\Debug\netcoreapp3.1\01. RegisterUsers.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\obj\Debug\netcoreapp3.1\01. RegisterUsers.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\01. RegisterUsers\obj\Debug\netcoreapp3.1\01. RegisterUsers.pdb

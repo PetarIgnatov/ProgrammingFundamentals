@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\bin\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\bin\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\bin\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\bin\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\bin\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\bin\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\obj\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\obj\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\obj\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\12. CountOccurrencesOfLargerNumbersInArray\obj\Debug\netcoreapp3.0\12. CountOccurrencesOfLargerNumbersInArray.pdb

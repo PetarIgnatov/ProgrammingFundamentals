@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\bin\Debug\netcoreapp3.0\07. FromTerabytesToBits.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\bin\Debug\netcoreapp3.0\07. FromTerabytesToBits.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\bin\Debug\netcoreapp3.0\07. FromTerabytesToBits.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\bin\Debug\netcoreapp3.0\07. FromTerabytesToBits.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\bin\Debug\netcoreapp3.0\07. FromTerabytesToBits.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\bin\Debug\netcoreapp3.0\07. FromTerabytesToBits.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\obj\Debug\netcoreapp3.0\07. FromTerabytesToBits.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\obj\Debug\netcoreapp3.0\07. FromTerabytesToBits.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\obj\Debug\netcoreapp3.0\07. FromTerabytesToBits.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\obj\Debug\netcoreapp3.0\07. FromTerabytesToBits.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\07. FromTerabytesToBits\obj\Debug\netcoreapp3.0\07. FromTerabytesToBits.pdb

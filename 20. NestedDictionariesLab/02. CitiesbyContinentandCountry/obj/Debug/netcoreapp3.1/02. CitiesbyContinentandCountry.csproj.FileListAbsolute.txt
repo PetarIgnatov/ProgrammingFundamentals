@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\02. CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\02. CitiesbyContinentandCountry.pdb

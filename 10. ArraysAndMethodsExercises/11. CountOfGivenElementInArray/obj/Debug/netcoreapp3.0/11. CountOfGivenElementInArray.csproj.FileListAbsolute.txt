@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\bin\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\bin\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\bin\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\bin\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\bin\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\bin\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\obj\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\obj\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\obj\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\11. CountOfGivenElementInArray\obj\Debug\netcoreapp3.0\11. CountOfGivenElementInArray.pdb

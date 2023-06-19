@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\bin\Debug\netcoreapp3.1\06. CottageScraper.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\bin\Debug\netcoreapp3.1\06. CottageScraper.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\bin\Debug\netcoreapp3.1\06. CottageScraper.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\bin\Debug\netcoreapp3.1\06. CottageScraper.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\bin\Debug\netcoreapp3.1\06. CottageScraper.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\bin\Debug\netcoreapp3.1\06. CottageScraper.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\obj\Debug\netcoreapp3.1\06. CottageScraper.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\obj\Debug\netcoreapp3.1\06. CottageScraper.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\obj\Debug\netcoreapp3.1\06. CottageScraper.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\obj\Debug\netcoreapp3.1\06. CottageScraper.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\06. CottageScraper\obj\Debug\netcoreapp3.1\06. CottageScraper.pdb

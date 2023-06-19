@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\bin\Debug\netcoreapp3.1\03. BigFactorial.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\bin\Debug\netcoreapp3.1\03. BigFactorial.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\bin\Debug\netcoreapp3.1\03. BigFactorial.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\bin\Debug\netcoreapp3.1\03. BigFactorial.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\bin\Debug\netcoreapp3.1\03. BigFactorial.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\bin\Debug\netcoreapp3.1\03. BigFactorial.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\obj\Debug\netcoreapp3.1\03. BigFactorial.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\obj\Debug\netcoreapp3.1\03. BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\obj\Debug\netcoreapp3.1\03. BigFactorial.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\obj\Debug\netcoreapp3.1\03. BigFactorial.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\03. BigFactorial\obj\Debug\netcoreapp3.1\03. BigFactorial.pdb

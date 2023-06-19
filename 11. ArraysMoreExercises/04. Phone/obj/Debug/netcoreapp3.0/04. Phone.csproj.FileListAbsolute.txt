@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\bin\Debug\netcoreapp3.0\04. Phone.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\bin\Debug\netcoreapp3.0\04. Phone.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\bin\Debug\netcoreapp3.0\04. Phone.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\bin\Debug\netcoreapp3.0\04. Phone.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\bin\Debug\netcoreapp3.0\04. Phone.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\bin\Debug\netcoreapp3.0\04. Phone.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\obj\Debug\netcoreapp3.0\04. Phone.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\obj\Debug\netcoreapp3.0\04. Phone.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\obj\Debug\netcoreapp3.0\04. Phone.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\obj\Debug\netcoreapp3.0\04. Phone.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\04. Phone\obj\Debug\netcoreapp3.0\04. Phone.pdb

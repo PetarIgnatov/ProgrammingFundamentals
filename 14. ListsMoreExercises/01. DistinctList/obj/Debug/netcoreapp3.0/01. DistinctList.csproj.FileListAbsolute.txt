@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\bin\Debug\netcoreapp3.0\01. DistinctList.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\bin\Debug\netcoreapp3.0\01. DistinctList.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\bin\Debug\netcoreapp3.0\01. DistinctList.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\bin\Debug\netcoreapp3.0\01. DistinctList.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\bin\Debug\netcoreapp3.0\01. DistinctList.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\bin\Debug\netcoreapp3.0\01. DistinctList.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\obj\Debug\netcoreapp3.0\01. DistinctList.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\obj\Debug\netcoreapp3.0\01. DistinctList.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\obj\Debug\netcoreapp3.0\01. DistinctList.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\obj\Debug\netcoreapp3.0\01. DistinctList.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\01. DistinctList\obj\Debug\netcoreapp3.0\01. DistinctList.pdb

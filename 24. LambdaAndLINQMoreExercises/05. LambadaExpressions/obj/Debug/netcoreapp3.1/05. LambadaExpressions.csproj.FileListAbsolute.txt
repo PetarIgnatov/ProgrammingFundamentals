@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\bin\Debug\netcoreapp3.1\05. LambadaExpressions.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\bin\Debug\netcoreapp3.1\05. LambadaExpressions.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\bin\Debug\netcoreapp3.1\05. LambadaExpressions.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\bin\Debug\netcoreapp3.1\05. LambadaExpressions.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\bin\Debug\netcoreapp3.1\05. LambadaExpressions.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\bin\Debug\netcoreapp3.1\05. LambadaExpressions.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\obj\Debug\netcoreapp3.1\05. LambadaExpressions.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\obj\Debug\netcoreapp3.1\05. LambadaExpressions.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\obj\Debug\netcoreapp3.1\05. LambadaExpressions.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\obj\Debug\netcoreapp3.1\05. LambadaExpressions.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\05. LambadaExpressions\obj\Debug\netcoreapp3.1\05. LambadaExpressions.pdb

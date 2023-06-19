@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\bin\Debug\netcoreapp3.1\02. DefaultValues.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\bin\Debug\netcoreapp3.1\02. DefaultValues.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\bin\Debug\netcoreapp3.1\02. DefaultValues.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\bin\Debug\netcoreapp3.1\02. DefaultValues.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\bin\Debug\netcoreapp3.1\02. DefaultValues.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\bin\Debug\netcoreapp3.1\02. DefaultValues.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\obj\Debug\netcoreapp3.1\02. DefaultValues.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\obj\Debug\netcoreapp3.1\02. DefaultValues.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\obj\Debug\netcoreapp3.1\02. DefaultValues.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\obj\Debug\netcoreapp3.1\02. DefaultValues.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\02. DefaultValues\obj\Debug\netcoreapp3.1\02. DefaultValues.pdb

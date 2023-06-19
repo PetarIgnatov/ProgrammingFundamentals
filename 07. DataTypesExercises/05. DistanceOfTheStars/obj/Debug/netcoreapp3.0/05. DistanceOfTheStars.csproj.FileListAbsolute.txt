@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\obj\Debug\netcoreapp3.0\05. DistanceOfTheStars.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\obj\Debug\netcoreapp3.0\05. DistanceOfTheStars.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\bin\Debug\netcoreapp3.0\05. DistanceOfTheStars.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\bin\Debug\netcoreapp3.0\05. DistanceOfTheStars.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\bin\Debug\netcoreapp3.0\05. DistanceOfTheStars.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\bin\Debug\netcoreapp3.0\05. DistanceOfTheStars.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\bin\Debug\netcoreapp3.0\05. DistanceOfTheStars.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\bin\Debug\netcoreapp3.0\05. DistanceOfTheStars.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\obj\Debug\netcoreapp3.0\05. DistanceOfTheStars.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\obj\Debug\netcoreapp3.0\05. DistanceOfTheStars.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\05. DistanceOfTheStars\obj\Debug\netcoreapp3.0\05. DistanceOfTheStars.csprojAssemblyReference.cache

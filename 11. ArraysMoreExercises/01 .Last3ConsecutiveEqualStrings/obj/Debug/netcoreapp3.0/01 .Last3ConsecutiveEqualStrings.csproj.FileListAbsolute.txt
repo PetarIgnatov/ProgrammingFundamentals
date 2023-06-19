@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\01 .Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp3.0\01 .Last3ConsecutiveEqualStrings.pdb

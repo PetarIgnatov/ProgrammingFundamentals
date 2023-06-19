@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\bin\Debug\netcoreapp3.0\06. Notifications.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\bin\Debug\netcoreapp3.0\06. Notifications.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\bin\Debug\netcoreapp3.0\06. Notifications.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\bin\Debug\netcoreapp3.0\06. Notifications.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\bin\Debug\netcoreapp3.0\06. Notifications.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\bin\Debug\netcoreapp3.0\06. Notifications.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\obj\Debug\netcoreapp3.0\06. Notifications.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\obj\Debug\netcoreapp3.0\06. Notifications.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\obj\Debug\netcoreapp3.0\06. Notifications.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\06. Notifications\obj\Debug\netcoreapp3.0\06. Notifications.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\bin\Debug\netcoreapp3.0\05. CharRotation.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\bin\Debug\netcoreapp3.0\05. CharRotation.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\bin\Debug\netcoreapp3.0\05. CharRotation.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\bin\Debug\netcoreapp3.0\05. CharRotation.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\bin\Debug\netcoreapp3.0\05. CharRotation.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\bin\Debug\netcoreapp3.0\05. CharRotation.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\obj\Debug\netcoreapp3.0\05. CharRotation.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\obj\Debug\netcoreapp3.0\05. CharRotation.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\obj\Debug\netcoreapp3.0\05. CharRotation.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\05. CharRotation\obj\Debug\netcoreapp3.0\05. CharRotation.pdb

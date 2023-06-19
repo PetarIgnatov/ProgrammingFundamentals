@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\bin\Debug\netcoreapp3.0\16. CypherRoulette.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\bin\Debug\netcoreapp3.0\16. CypherRoulette.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\bin\Debug\netcoreapp3.0\16. CypherRoulette.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\bin\Debug\netcoreapp3.0\16. CypherRoulette.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\bin\Debug\netcoreapp3.0\16. CypherRoulette.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\bin\Debug\netcoreapp3.0\16. CypherRoulette.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\obj\Debug\netcoreapp3.0\16. CypherRoulette.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\obj\Debug\netcoreapp3.0\16. CypherRoulette.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\obj\Debug\netcoreapp3.0\16. CypherRoulette.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\16. CypherRoulette\obj\Debug\netcoreapp3.0\16. CypherRoulette.pdb

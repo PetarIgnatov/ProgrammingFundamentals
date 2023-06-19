@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\bin\Debug\netcoreapp3.0\04. UnunionLists.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\bin\Debug\netcoreapp3.0\04. UnunionLists.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\bin\Debug\netcoreapp3.0\04. UnunionLists.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\bin\Debug\netcoreapp3.0\04. UnunionLists.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\bin\Debug\netcoreapp3.0\04. UnunionLists.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\bin\Debug\netcoreapp3.0\04. UnunionLists.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\obj\Debug\netcoreapp3.0\04. UnunionLists.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\obj\Debug\netcoreapp3.0\04. UnunionLists.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\obj\Debug\netcoreapp3.0\04. UnunionLists.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\obj\Debug\netcoreapp3.0\04. UnunionLists.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\04. UnunionLists\obj\Debug\netcoreapp3.0\04. UnunionLists.pdb

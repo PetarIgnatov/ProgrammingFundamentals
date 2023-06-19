@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\bin\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\bin\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\bin\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\bin\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\bin\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\bin\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\obj\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\obj\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\obj\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\obj\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\05. SortArrayUsingInsertionSort\obj\Debug\netcoreapp3.0\05. SortArrayUsingInsertionSort.pdb

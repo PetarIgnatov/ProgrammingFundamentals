@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\bin\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\bin\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\bin\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\bin\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\bin\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\bin\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\obj\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\obj\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\obj\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\obj\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\02. AverageCharacterDelimiter\obj\Debug\netcoreapp3.0\02. AverageCharacterDelimiter.pdb

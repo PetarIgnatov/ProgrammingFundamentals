@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\bin\Debug\netcoreapp3.0\01. SumArrayElements.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\bin\Debug\netcoreapp3.0\01. SumArrayElements.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\bin\Debug\netcoreapp3.0\01. SumArrayElements.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\bin\Debug\netcoreapp3.0\01. SumArrayElements.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\bin\Debug\netcoreapp3.0\01. SumArrayElements.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\bin\Debug\netcoreapp3.0\01. SumArrayElements.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\obj\Debug\netcoreapp3.0\01. SumArrayElements.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\obj\Debug\netcoreapp3.0\01. SumArrayElements.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\obj\Debug\netcoreapp3.0\01. SumArrayElements.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\obj\Debug\netcoreapp3.0\01. SumArrayElements.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\01. SumArrayElements\obj\Debug\netcoreapp3.0\01. SumArrayElements.pdb

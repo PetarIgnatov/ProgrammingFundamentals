@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\bin\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\bin\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\bin\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\bin\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\bin\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\bin\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\obj\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\obj\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\obj\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\obj\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\02. MultiplyAnArrayOfDoubles\obj\Debug\netcoreapp3.0\02. MultiplyAnArrayOfDoubles.pdb

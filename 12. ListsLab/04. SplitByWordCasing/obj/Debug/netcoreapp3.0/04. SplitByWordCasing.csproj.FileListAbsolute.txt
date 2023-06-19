@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\obj\Debug\netcoreapp3.0\04. SplitByWordCasing.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\obj\Debug\netcoreapp3.0\04. SplitByWordCasing.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\obj\Debug\netcoreapp3.0\04. SplitByWordCasing.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\bin\Debug\netcoreapp3.0\04. SplitByWordCasing.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\bin\Debug\netcoreapp3.0\04. SplitByWordCasing.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\bin\Debug\netcoreapp3.0\04. SplitByWordCasing.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\bin\Debug\netcoreapp3.0\04. SplitByWordCasing.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\bin\Debug\netcoreapp3.0\04. SplitByWordCasing.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\bin\Debug\netcoreapp3.0\04. SplitByWordCasing.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\obj\Debug\netcoreapp3.0\04. SplitByWordCasing.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\04. SplitByWordCasing\obj\Debug\netcoreapp3.0\04. SplitByWordCasing.pdb

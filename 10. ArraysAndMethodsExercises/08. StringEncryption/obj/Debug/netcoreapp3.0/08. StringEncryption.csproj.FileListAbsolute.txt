@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\bin\Debug\netcoreapp3.0\08. StringEncryption.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\bin\Debug\netcoreapp3.0\08. StringEncryption.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\bin\Debug\netcoreapp3.0\08. StringEncryption.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\bin\Debug\netcoreapp3.0\08. StringEncryption.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\bin\Debug\netcoreapp3.0\08. StringEncryption.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\bin\Debug\netcoreapp3.0\08. StringEncryption.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\obj\Debug\netcoreapp3.0\08. StringEncryption.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\obj\Debug\netcoreapp3.0\08. StringEncryption.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\obj\Debug\netcoreapp3.0\08. StringEncryption.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\obj\Debug\netcoreapp3.0\08. StringEncryption.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\08. StringEncryption\obj\Debug\netcoreapp3.0\08. StringEncryption.csprojAssemblyReference.cache

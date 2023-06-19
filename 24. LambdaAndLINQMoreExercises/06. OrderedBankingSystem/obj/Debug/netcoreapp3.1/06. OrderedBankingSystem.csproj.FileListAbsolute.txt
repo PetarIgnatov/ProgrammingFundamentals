@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\bin\Debug\netcoreapp3.1\06. OrderedBankingSystem.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\bin\Debug\netcoreapp3.1\06. OrderedBankingSystem.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\bin\Debug\netcoreapp3.1\06. OrderedBankingSystem.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\bin\Debug\netcoreapp3.1\06. OrderedBankingSystem.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\bin\Debug\netcoreapp3.1\06. OrderedBankingSystem.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\bin\Debug\netcoreapp3.1\06. OrderedBankingSystem.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\obj\Debug\netcoreapp3.1\06. OrderedBankingSystem.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\obj\Debug\netcoreapp3.1\06. OrderedBankingSystem.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\obj\Debug\netcoreapp3.1\06. OrderedBankingSystem.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\obj\Debug\netcoreapp3.1\06. OrderedBankingSystem.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\06. OrderedBankingSystem\obj\Debug\netcoreapp3.1\06. OrderedBankingSystem.pdb

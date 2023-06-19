@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\bin\Debug\netcoreapp3.1\07. SocialMediaPosts.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\bin\Debug\netcoreapp3.1\07. SocialMediaPosts.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\bin\Debug\netcoreapp3.1\07. SocialMediaPosts.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\bin\Debug\netcoreapp3.1\07. SocialMediaPosts.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\bin\Debug\netcoreapp3.1\07. SocialMediaPosts.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\bin\Debug\netcoreapp3.1\07. SocialMediaPosts.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\obj\Debug\netcoreapp3.1\07. SocialMediaPosts.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\obj\Debug\netcoreapp3.1\07. SocialMediaPosts.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\obj\Debug\netcoreapp3.1\07. SocialMediaPosts.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\obj\Debug\netcoreapp3.1\07. SocialMediaPosts.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\07. SocialMediaPosts\obj\Debug\netcoreapp3.1\07. SocialMediaPosts.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\bin\Debug\netcoreapp3.0\03. ReverseArrayIn-place.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\bin\Debug\netcoreapp3.0\03. ReverseArrayIn-place.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\bin\Debug\netcoreapp3.0\03. ReverseArrayIn-place.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\bin\Debug\netcoreapp3.0\03. ReverseArrayIn-place.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\bin\Debug\netcoreapp3.0\03. ReverseArrayIn-place.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\bin\Debug\netcoreapp3.0\03. ReverseArrayIn-place.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\obj\Debug\netcoreapp3.0\03. ReverseArrayIn-place.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\obj\Debug\netcoreapp3.0\03. ReverseArrayIn-place.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\obj\Debug\netcoreapp3.0\03. ReverseArrayIn-place.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\obj\Debug\netcoreapp3.0\03. ReverseArrayIn-place.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\03. ReverseArrayIn-place\obj\Debug\netcoreapp3.0\03. ReverseArrayIn-place.pdb

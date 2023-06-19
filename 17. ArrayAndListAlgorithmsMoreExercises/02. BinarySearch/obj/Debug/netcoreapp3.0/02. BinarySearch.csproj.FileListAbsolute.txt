@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\bin\Debug\netcoreapp3.0\02. BinarySearch.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\bin\Debug\netcoreapp3.0\02. BinarySearch.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\bin\Debug\netcoreapp3.0\02. BinarySearch.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\bin\Debug\netcoreapp3.0\02. BinarySearch.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\bin\Debug\netcoreapp3.0\02. BinarySearch.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\bin\Debug\netcoreapp3.0\02. BinarySearch.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\obj\Debug\netcoreapp3.0\02. BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\obj\Debug\netcoreapp3.0\02. BinarySearch.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\obj\Debug\netcoreapp3.0\02. BinarySearch.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\obj\Debug\netcoreapp3.0\02. BinarySearch.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\02. BinarySearch\obj\Debug\netcoreapp3.0\02. BinarySearch.csprojAssemblyReference.cache

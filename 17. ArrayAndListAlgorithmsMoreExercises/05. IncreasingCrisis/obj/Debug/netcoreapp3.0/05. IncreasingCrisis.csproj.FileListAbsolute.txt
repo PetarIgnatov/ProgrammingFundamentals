@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\bin\Debug\netcoreapp3.0\05. IncreasingCrisis.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\bin\Debug\netcoreapp3.0\05. IncreasingCrisis.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\bin\Debug\netcoreapp3.0\05. IncreasingCrisis.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\bin\Debug\netcoreapp3.0\05. IncreasingCrisis.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\bin\Debug\netcoreapp3.0\05. IncreasingCrisis.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\bin\Debug\netcoreapp3.0\05. IncreasingCrisis.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\obj\Debug\netcoreapp3.0\05. IncreasingCrisis.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\obj\Debug\netcoreapp3.0\05. IncreasingCrisis.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\obj\Debug\netcoreapp3.0\05. IncreasingCrisis.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\obj\Debug\netcoreapp3.0\05. IncreasingCrisis.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\05. IncreasingCrisis\obj\Debug\netcoreapp3.0\05. IncreasingCrisis.csprojAssemblyReference.cache

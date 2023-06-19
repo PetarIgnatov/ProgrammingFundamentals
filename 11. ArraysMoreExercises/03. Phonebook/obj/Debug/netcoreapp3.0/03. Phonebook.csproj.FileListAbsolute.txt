@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\bin\Debug\netcoreapp3.0\03. Phonebook.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\bin\Debug\netcoreapp3.0\03. Phonebook.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\bin\Debug\netcoreapp3.0\03. Phonebook.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\bin\Debug\netcoreapp3.0\03. Phonebook.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\bin\Debug\netcoreapp3.0\03. Phonebook.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\bin\Debug\netcoreapp3.0\03. Phonebook.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\obj\Debug\netcoreapp3.0\03. Phonebook.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\obj\Debug\netcoreapp3.0\03. Phonebook.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\obj\Debug\netcoreapp3.0\03. Phonebook.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\03. Phonebook\obj\Debug\netcoreapp3.0\03. Phonebook.pdb

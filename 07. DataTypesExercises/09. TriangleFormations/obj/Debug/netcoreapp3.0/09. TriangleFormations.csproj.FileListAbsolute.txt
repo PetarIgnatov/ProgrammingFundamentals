@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\bin\Debug\netcoreapp3.0\09. TriangleFormations.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\bin\Debug\netcoreapp3.0\09. TriangleFormations.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\bin\Debug\netcoreapp3.0\09. TriangleFormations.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\bin\Debug\netcoreapp3.0\09. TriangleFormations.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\bin\Debug\netcoreapp3.0\09. TriangleFormations.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\bin\Debug\netcoreapp3.0\09. TriangleFormations.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\obj\Debug\netcoreapp3.0\09. TriangleFormations.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\obj\Debug\netcoreapp3.0\09. TriangleFormations.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\obj\Debug\netcoreapp3.0\09. TriangleFormations.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\09. TriangleFormations\obj\Debug\netcoreapp3.0\09. TriangleFormations.pdb

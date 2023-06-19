@@ -1,0 +1,10 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\bin\Debug\netcoreapp3.1\02. Largest 3 Numbers.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\bin\Debug\netcoreapp3.1\02. Largest 3 Numbers.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\bin\Debug\netcoreapp3.1\02. Largest 3 Numbers.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\bin\Debug\netcoreapp3.1\02. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\bin\Debug\netcoreapp3.1\02. Largest 3 Numbers.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\bin\Debug\netcoreapp3.1\02. Largest 3 Numbers.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\obj\Debug\netcoreapp3.1\02. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\obj\Debug\netcoreapp3.1\02. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\obj\Debug\netcoreapp3.1\02. Largest 3 Numbers.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\02. Largest 3 Numbers\obj\Debug\netcoreapp3.1\02. Largest 3 Numbers.pdb

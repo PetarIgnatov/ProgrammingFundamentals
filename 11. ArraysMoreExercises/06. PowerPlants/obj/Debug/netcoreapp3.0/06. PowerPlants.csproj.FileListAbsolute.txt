@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\bin\Debug\netcoreapp3.0\06. PowerPlants.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\bin\Debug\netcoreapp3.0\06. PowerPlants.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\bin\Debug\netcoreapp3.0\06. PowerPlants.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\bin\Debug\netcoreapp3.0\06. PowerPlants.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\bin\Debug\netcoreapp3.0\06. PowerPlants.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\bin\Debug\netcoreapp3.0\06. PowerPlants.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\obj\Debug\netcoreapp3.0\06. PowerPlants.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\obj\Debug\netcoreapp3.0\06. PowerPlants.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\obj\Debug\netcoreapp3.0\06. PowerPlants.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\obj\Debug\netcoreapp3.0\06. PowerPlants.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\06. PowerPlants\obj\Debug\netcoreapp3.0\06. PowerPlants.pdb

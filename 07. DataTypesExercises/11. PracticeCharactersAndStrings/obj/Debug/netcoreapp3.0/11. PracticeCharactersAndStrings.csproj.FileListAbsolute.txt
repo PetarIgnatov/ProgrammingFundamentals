@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\bin\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\bin\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\bin\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\bin\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\bin\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\bin\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\obj\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\obj\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\obj\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\11. PracticeCharactersAndStrings\obj\Debug\netcoreapp3.0\11. PracticeCharactersAndStrings.pdb

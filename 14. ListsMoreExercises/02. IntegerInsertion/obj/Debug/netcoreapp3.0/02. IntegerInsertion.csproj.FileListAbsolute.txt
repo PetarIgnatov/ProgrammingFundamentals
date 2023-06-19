@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\bin\Debug\netcoreapp3.0\02. IntegerInsertion.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\bin\Debug\netcoreapp3.0\02. IntegerInsertion.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\bin\Debug\netcoreapp3.0\02. IntegerInsertion.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\bin\Debug\netcoreapp3.0\02. IntegerInsertion.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\bin\Debug\netcoreapp3.0\02. IntegerInsertion.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\bin\Debug\netcoreapp3.0\02. IntegerInsertion.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\obj\Debug\netcoreapp3.0\02. IntegerInsertion.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\obj\Debug\netcoreapp3.0\02. IntegerInsertion.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\obj\Debug\netcoreapp3.0\02. IntegerInsertion.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\obj\Debug\netcoreapp3.0\02. IntegerInsertion.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\02. IntegerInsertion\obj\Debug\netcoreapp3.0\02. IntegerInsertion.pdb

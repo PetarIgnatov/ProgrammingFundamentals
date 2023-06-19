@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\bin\Debug\netcoreapp3.1\02. Key-Key Value-Value.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\bin\Debug\netcoreapp3.1\02. Key-Key Value-Value.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\bin\Debug\netcoreapp3.1\02. Key-Key Value-Value.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\bin\Debug\netcoreapp3.1\02. Key-Key Value-Value.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\bin\Debug\netcoreapp3.1\02. Key-Key Value-Value.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\bin\Debug\netcoreapp3.1\02. Key-Key Value-Value.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\obj\Debug\netcoreapp3.1\02. Key-Key Value-Value.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\obj\Debug\netcoreapp3.1\02. Key-Key Value-Value.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\obj\Debug\netcoreapp3.1\02. Key-Key Value-Value.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\obj\Debug\netcoreapp3.1\02. Key-Key Value-Value.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\02. Key-Key Value-Value\obj\Debug\netcoreapp3.1\02. Key-Key Value-Value.pdb

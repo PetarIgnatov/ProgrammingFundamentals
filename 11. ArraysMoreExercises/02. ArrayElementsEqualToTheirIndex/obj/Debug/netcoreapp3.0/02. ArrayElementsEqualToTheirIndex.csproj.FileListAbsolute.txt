@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\bin\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\bin\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\bin\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\bin\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\bin\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\bin\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\obj\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\obj\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\obj\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\obj\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\11. ArraysMoreExercises\02. ArrayElementsEqualToTheirIndex\obj\Debug\netcoreapp3.0\02. ArrayElementsEqualToTheirIndex.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\bin\Debug\netcoreapp3.1\05. UserLogins.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\bin\Debug\netcoreapp3.1\05. UserLogins.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\bin\Debug\netcoreapp3.1\05. UserLogins.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\bin\Debug\netcoreapp3.1\05. UserLogins.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\bin\Debug\netcoreapp3.1\05. UserLogins.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\bin\Debug\netcoreapp3.1\05. UserLogins.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\obj\Debug\netcoreapp3.1\05. UserLogins.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\obj\Debug\netcoreapp3.1\05. UserLogins.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\obj\Debug\netcoreapp3.1\05. UserLogins.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\obj\Debug\netcoreapp3.1\05. UserLogins.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\05. UserLogins\obj\Debug\netcoreapp3.1\05. UserLogins.pdb

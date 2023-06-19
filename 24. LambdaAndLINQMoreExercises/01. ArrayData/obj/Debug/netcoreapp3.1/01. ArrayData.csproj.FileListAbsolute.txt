@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\bin\Debug\netcoreapp3.1\01. ArrayData.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\bin\Debug\netcoreapp3.1\01. ArrayData.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\bin\Debug\netcoreapp3.1\01. ArrayData.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\bin\Debug\netcoreapp3.1\01. ArrayData.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\bin\Debug\netcoreapp3.1\01. ArrayData.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\bin\Debug\netcoreapp3.1\01. ArrayData.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\obj\Debug\netcoreapp3.1\01. ArrayData.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\obj\Debug\netcoreapp3.1\01. ArrayData.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\obj\Debug\netcoreapp3.1\01. ArrayData.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\obj\Debug\netcoreapp3.1\01. ArrayData.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\01. ArrayData\obj\Debug\netcoreapp3.1\01. ArrayData.pdb

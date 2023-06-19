@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\bin\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\bin\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\bin\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\bin\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\bin\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\bin\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\obj\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\obj\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\obj\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\obj\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\01. RemoveElementsAtOddPositions\obj\Debug\netcoreapp3.0\01. RemoveElementsAtOddPositions.pdb

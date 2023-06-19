@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\bin\Debug\netcoreapp3.0\03. PrintingTriangle.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\bin\Debug\netcoreapp3.0\03. PrintingTriangle.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\bin\Debug\netcoreapp3.0\03. PrintingTriangle.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\bin\Debug\netcoreapp3.0\03. PrintingTriangle.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\bin\Debug\netcoreapp3.0\03. PrintingTriangle.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\bin\Debug\netcoreapp3.0\03. PrintingTriangle.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\obj\Debug\netcoreapp3.0\03. PrintingTriangle.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\obj\Debug\netcoreapp3.0\03. PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\obj\Debug\netcoreapp3.0\03. PrintingTriangle.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\obj\Debug\netcoreapp3.0\03. PrintingTriangle.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\03. PrintingTriangle\obj\Debug\netcoreapp3.0\03. PrintingTriangle.pdb

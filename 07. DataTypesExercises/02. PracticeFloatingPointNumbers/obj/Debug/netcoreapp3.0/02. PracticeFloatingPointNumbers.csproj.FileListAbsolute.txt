@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\02. PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.0\02. PracticeFloatingPointNumbers.pdb

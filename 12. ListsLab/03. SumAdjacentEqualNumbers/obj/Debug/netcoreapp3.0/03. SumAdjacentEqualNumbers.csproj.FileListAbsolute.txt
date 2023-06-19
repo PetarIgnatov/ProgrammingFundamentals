@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\03. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.0\03. SumAdjacentEqualNumbers.pdb

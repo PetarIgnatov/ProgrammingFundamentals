@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\bin\Debug\netcoreapp3.1\04. MostValuedCustomer.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\bin\Debug\netcoreapp3.1\04. MostValuedCustomer.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\bin\Debug\netcoreapp3.1\04. MostValuedCustomer.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\bin\Debug\netcoreapp3.1\04. MostValuedCustomer.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\bin\Debug\netcoreapp3.1\04. MostValuedCustomer.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\bin\Debug\netcoreapp3.1\04. MostValuedCustomer.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\obj\Debug\netcoreapp3.1\04. MostValuedCustomer.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\obj\Debug\netcoreapp3.1\04. MostValuedCustomer.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\obj\Debug\netcoreapp3.1\04. MostValuedCustomer.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\obj\Debug\netcoreapp3.1\04. MostValuedCustomer.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\04. MostValuedCustomer\obj\Debug\netcoreapp3.1\04. MostValuedCustomer.pdb

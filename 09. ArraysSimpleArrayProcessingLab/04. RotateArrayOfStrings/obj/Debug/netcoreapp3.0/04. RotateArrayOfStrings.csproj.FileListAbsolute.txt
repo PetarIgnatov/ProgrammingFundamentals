@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\bin\Debug\netcoreapp3.0\04. RotateArrayOfStrings.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\bin\Debug\netcoreapp3.0\04. RotateArrayOfStrings.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\bin\Debug\netcoreapp3.0\04. RotateArrayOfStrings.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\bin\Debug\netcoreapp3.0\04. RotateArrayOfStrings.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\bin\Debug\netcoreapp3.0\04. RotateArrayOfStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\bin\Debug\netcoreapp3.0\04. RotateArrayOfStrings.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\obj\Debug\netcoreapp3.0\04. RotateArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\obj\Debug\netcoreapp3.0\04. RotateArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\obj\Debug\netcoreapp3.0\04. RotateArrayOfStrings.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\obj\Debug\netcoreapp3.0\04. RotateArrayOfStrings.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\04. RotateArrayOfStrings\obj\Debug\netcoreapp3.0\04. RotateArrayOfStrings.pdb

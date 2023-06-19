@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\bin\Debug\netcoreapp3.0\03. CamelsBack.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\bin\Debug\netcoreapp3.0\03. CamelsBack.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\bin\Debug\netcoreapp3.0\03. CamelsBack.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\bin\Debug\netcoreapp3.0\03. CamelsBack.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\bin\Debug\netcoreapp3.0\03. CamelsBack.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\bin\Debug\netcoreapp3.0\03. CamelsBack.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\obj\Debug\netcoreapp3.0\03. CamelsBack.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\obj\Debug\netcoreapp3.0\03. CamelsBack.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\obj\Debug\netcoreapp3.0\03. CamelsBack.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\03. CamelsBack\obj\Debug\netcoreapp3.0\03. CamelsBack.pdb

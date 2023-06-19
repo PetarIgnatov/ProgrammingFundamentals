@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\bin\Debug\netcoreapp3.1\06. ForumTopics.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\bin\Debug\netcoreapp3.1\06. ForumTopics.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\bin\Debug\netcoreapp3.1\06. ForumTopics.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\bin\Debug\netcoreapp3.1\06. ForumTopics.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\bin\Debug\netcoreapp3.1\06. ForumTopics.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\bin\Debug\netcoreapp3.1\06. ForumTopics.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\obj\Debug\netcoreapp3.1\06. ForumTopics.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\obj\Debug\netcoreapp3.1\06. ForumTopics.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\obj\Debug\netcoreapp3.1\06. ForumTopics.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\obj\Debug\netcoreapp3.1\06. ForumTopics.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\06. ForumTopics\obj\Debug\netcoreapp3.1\06. ForumTopics.pdb

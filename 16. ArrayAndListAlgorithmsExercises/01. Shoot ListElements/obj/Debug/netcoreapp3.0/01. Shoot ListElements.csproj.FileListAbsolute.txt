@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\bin\Debug\netcoreapp3.0\01. Shoot ListElements.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\bin\Debug\netcoreapp3.0\01. Shoot ListElements.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\bin\Debug\netcoreapp3.0\01. Shoot ListElements.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\bin\Debug\netcoreapp3.0\01. Shoot ListElements.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\bin\Debug\netcoreapp3.0\01. Shoot ListElements.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\bin\Debug\netcoreapp3.0\01. Shoot ListElements.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\obj\Debug\netcoreapp3.0\01. Shoot ListElements.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\obj\Debug\netcoreapp3.0\01. Shoot ListElements.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\obj\Debug\netcoreapp3.0\01. Shoot ListElements.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\obj\Debug\netcoreapp3.0\01. Shoot ListElements.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\01. Shoot ListElements\obj\Debug\netcoreapp3.0\01. Shoot ListElements.pdb

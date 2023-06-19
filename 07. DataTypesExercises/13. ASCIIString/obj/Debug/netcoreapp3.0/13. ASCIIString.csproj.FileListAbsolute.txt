@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\bin\Debug\netcoreapp3.0\13. ASCIIString.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\bin\Debug\netcoreapp3.0\13. ASCIIString.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\bin\Debug\netcoreapp3.0\13. ASCIIString.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\bin\Debug\netcoreapp3.0\13. ASCIIString.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\bin\Debug\netcoreapp3.0\13. ASCIIString.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\bin\Debug\netcoreapp3.0\13. ASCIIString.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\obj\Debug\netcoreapp3.0\13. ASCIIString.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\obj\Debug\netcoreapp3.0\13. ASCIIString.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\obj\Debug\netcoreapp3.0\13. ASCIIString.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\13. ASCIIString\obj\Debug\netcoreapp3.0\13. ASCIIString.pdb

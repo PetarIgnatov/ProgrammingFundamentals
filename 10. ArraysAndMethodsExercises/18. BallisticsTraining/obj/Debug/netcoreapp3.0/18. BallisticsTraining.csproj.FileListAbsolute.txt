@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\bin\Debug\netcoreapp3.0\18. BallisticsTraining.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\bin\Debug\netcoreapp3.0\18. BallisticsTraining.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\bin\Debug\netcoreapp3.0\18. BallisticsTraining.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\bin\Debug\netcoreapp3.0\18. BallisticsTraining.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\bin\Debug\netcoreapp3.0\18. BallisticsTraining.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\bin\Debug\netcoreapp3.0\18. BallisticsTraining.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\obj\Debug\netcoreapp3.0\18. BallisticsTraining.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\obj\Debug\netcoreapp3.0\18. BallisticsTraining.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\obj\Debug\netcoreapp3.0\18. BallisticsTraining.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\obj\Debug\netcoreapp3.0\18. BallisticsTraining.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\18. BallisticsTraining\obj\Debug\netcoreapp3.0\18. BallisticsTraining.pdb

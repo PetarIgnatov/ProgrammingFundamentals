@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\bin\Debug\netcoreapp3.0\01. ArrayContainsElement.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\bin\Debug\netcoreapp3.0\01. ArrayContainsElement.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\bin\Debug\netcoreapp3.0\01. ArrayContainsElement.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\bin\Debug\netcoreapp3.0\01. ArrayContainsElement.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\bin\Debug\netcoreapp3.0\01. ArrayContainsElement.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\bin\Debug\netcoreapp3.0\01. ArrayContainsElement.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\obj\Debug\netcoreapp3.0\01. ArrayContainsElement.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\obj\Debug\netcoreapp3.0\01. ArrayContainsElement.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\obj\Debug\netcoreapp3.0\01. ArrayContainsElement.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\obj\Debug\netcoreapp3.0\01. ArrayContainsElement.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\01. ArrayContainsElement\obj\Debug\netcoreapp3.0\01. ArrayContainsElement.pdb

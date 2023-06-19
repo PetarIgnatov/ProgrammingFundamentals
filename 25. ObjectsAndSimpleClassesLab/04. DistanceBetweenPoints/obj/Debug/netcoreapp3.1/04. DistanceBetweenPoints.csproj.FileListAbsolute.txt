@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\bin\Debug\netcoreapp3.1\04. DistanceBetweenPoints.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\bin\Debug\netcoreapp3.1\04. DistanceBetweenPoints.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\bin\Debug\netcoreapp3.1\04. DistanceBetweenPoints.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\bin\Debug\netcoreapp3.1\04. DistanceBetweenPoints.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\bin\Debug\netcoreapp3.1\04. DistanceBetweenPoints.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\bin\Debug\netcoreapp3.1\04. DistanceBetweenPoints.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\obj\Debug\netcoreapp3.1\04. DistanceBetweenPoints.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\obj\Debug\netcoreapp3.1\04. DistanceBetweenPoints.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\obj\Debug\netcoreapp3.1\04. DistanceBetweenPoints.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\obj\Debug\netcoreapp3.1\04. DistanceBetweenPoints.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\04. DistanceBetweenPoints\obj\Debug\netcoreapp3.1\04. DistanceBetweenPoints.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\bin\Debug\netcoreapp3.0\07. LargestNElements.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\bin\Debug\netcoreapp3.0\07. LargestNElements.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\bin\Debug\netcoreapp3.0\07. LargestNElements.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\bin\Debug\netcoreapp3.0\07. LargestNElements.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\bin\Debug\netcoreapp3.0\07. LargestNElements.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\bin\Debug\netcoreapp3.0\07. LargestNElements.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\obj\Debug\netcoreapp3.0\07. LargestNElements.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\obj\Debug\netcoreapp3.0\07. LargestNElements.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\obj\Debug\netcoreapp3.0\07. LargestNElements.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\07. LargestNElements\obj\Debug\netcoreapp3.0\07. LargestNElements.pdb

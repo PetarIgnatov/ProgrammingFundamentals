@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\bin\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\bin\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\bin\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\bin\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\bin\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\bin\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\obj\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\obj\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\obj\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\obj\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\08. TravelingAtLightSpeed\obj\Debug\netcoreapp3.0\08. TravelingAtLightSpeed.csprojAssemblyReference.cache

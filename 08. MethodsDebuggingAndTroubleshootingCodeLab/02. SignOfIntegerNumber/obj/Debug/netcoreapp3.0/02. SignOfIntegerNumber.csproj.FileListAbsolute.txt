@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\bin\Debug\netcoreapp3.0\02. SignOfIntegerNumber.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\bin\Debug\netcoreapp3.0\02. SignOfIntegerNumber.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\bin\Debug\netcoreapp3.0\02. SignOfIntegerNumber.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\bin\Debug\netcoreapp3.0\02. SignOfIntegerNumber.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\bin\Debug\netcoreapp3.0\02. SignOfIntegerNumber.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\bin\Debug\netcoreapp3.0\02. SignOfIntegerNumber.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\obj\Debug\netcoreapp3.0\02. SignOfIntegerNumber.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\obj\Debug\netcoreapp3.0\02. SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\obj\Debug\netcoreapp3.0\02. SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\obj\Debug\netcoreapp3.0\02. SignOfIntegerNumber.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\02. SignOfIntegerNumber\obj\Debug\netcoreapp3.0\02. SignOfIntegerNumber.pdb

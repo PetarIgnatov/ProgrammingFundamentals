@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\bin\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\bin\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\bin\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\bin\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\bin\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\bin\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\obj\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\obj\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\obj\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\14. EqualSequenceOfElementsInArray\obj\Debug\netcoreapp3.0\14. EqualSequenceOfElementsInArray.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\bin\Debug\netcoreapp3.0\03. MirrorImage.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\bin\Debug\netcoreapp3.0\03. MirrorImage.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\bin\Debug\netcoreapp3.0\03. MirrorImage.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\bin\Debug\netcoreapp3.0\03. MirrorImage.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\bin\Debug\netcoreapp3.0\03. MirrorImage.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\bin\Debug\netcoreapp3.0\03. MirrorImage.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\obj\Debug\netcoreapp3.0\03. MirrorImage.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\obj\Debug\netcoreapp3.0\03. MirrorImage.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\obj\Debug\netcoreapp3.0\03. MirrorImage.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\03. MirrorImage\obj\Debug\netcoreapp3.0\03. MirrorImage.pdb

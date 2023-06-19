@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\bin\Debug\netcoreapp3.0\05. SortNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\bin\Debug\netcoreapp3.0\05. SortNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\bin\Debug\netcoreapp3.0\05. SortNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\bin\Debug\netcoreapp3.0\05. SortNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\bin\Debug\netcoreapp3.0\05. SortNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\bin\Debug\netcoreapp3.0\05. SortNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\obj\Debug\netcoreapp3.0\05. SortNumbers.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\obj\Debug\netcoreapp3.0\05. SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\obj\Debug\netcoreapp3.0\05. SortNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\obj\Debug\netcoreapp3.0\05. SortNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\05. SortNumbers\obj\Debug\netcoreapp3.0\05. SortNumbers.pdb

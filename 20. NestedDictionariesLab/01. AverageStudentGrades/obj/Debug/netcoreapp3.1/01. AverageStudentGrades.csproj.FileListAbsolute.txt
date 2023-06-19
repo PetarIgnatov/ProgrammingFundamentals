@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\bin\Debug\netcoreapp3.1\01. AverageStudentGrades.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\bin\Debug\netcoreapp3.1\01. AverageStudentGrades.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\bin\Debug\netcoreapp3.1\01. AverageStudentGrades.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\bin\Debug\netcoreapp3.1\01. AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\bin\Debug\netcoreapp3.1\01. AverageStudentGrades.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\bin\Debug\netcoreapp3.1\01. AverageStudentGrades.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\obj\Debug\netcoreapp3.1\01. AverageStudentGrades.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\obj\Debug\netcoreapp3.1\01. AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\obj\Debug\netcoreapp3.1\01. AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\obj\Debug\netcoreapp3.1\01. AverageStudentGrades.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\01. AverageStudentGrades\obj\Debug\netcoreapp3.1\01. AverageStudentGrades.pdb

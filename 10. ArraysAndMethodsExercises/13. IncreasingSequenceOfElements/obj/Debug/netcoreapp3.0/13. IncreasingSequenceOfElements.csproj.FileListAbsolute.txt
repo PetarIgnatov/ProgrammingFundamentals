@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\bin\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\bin\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\bin\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\bin\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\bin\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\bin\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\obj\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\obj\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\obj\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\13. IncreasingSequenceOfElements\obj\Debug\netcoreapp3.0\13. IncreasingSequenceOfElements.pdb

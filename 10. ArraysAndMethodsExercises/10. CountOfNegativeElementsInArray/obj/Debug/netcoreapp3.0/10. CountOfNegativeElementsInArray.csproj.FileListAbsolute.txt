@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\bin\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\bin\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\bin\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\bin\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\bin\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\bin\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\obj\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\obj\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\obj\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\10. CountOfNegativeElementsInArray\obj\Debug\netcoreapp3.0\10. CountOfNegativeElementsInArray.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\bin\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\bin\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\bin\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\bin\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\bin\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\bin\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\obj\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\obj\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\obj\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\obj\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\01. PracticeIntegerNumbers\obj\Debug\netcoreapp3.0\01. PracticeIntegerNumbers.pdb

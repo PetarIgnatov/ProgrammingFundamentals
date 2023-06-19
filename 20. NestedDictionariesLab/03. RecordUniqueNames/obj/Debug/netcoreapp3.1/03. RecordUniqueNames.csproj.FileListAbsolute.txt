@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\bin\Debug\netcoreapp3.1\03. RecordUniqueNames.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\bin\Debug\netcoreapp3.1\03. RecordUniqueNames.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\bin\Debug\netcoreapp3.1\03. RecordUniqueNames.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\bin\Debug\netcoreapp3.1\03. RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\bin\Debug\netcoreapp3.1\03. RecordUniqueNames.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\bin\Debug\netcoreapp3.1\03. RecordUniqueNames.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\obj\Debug\netcoreapp3.1\03. RecordUniqueNames.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\obj\Debug\netcoreapp3.1\03. RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\obj\Debug\netcoreapp3.1\03. RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\obj\Debug\netcoreapp3.1\03. RecordUniqueNames.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\20. NestedDictionariesLab\03. RecordUniqueNames\obj\Debug\netcoreapp3.1\03. RecordUniqueNames.pdb

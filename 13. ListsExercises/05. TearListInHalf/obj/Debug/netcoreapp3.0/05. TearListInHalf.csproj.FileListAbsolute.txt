@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\bin\Debug\netcoreapp3.0\05. TearListInHalf.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\bin\Debug\netcoreapp3.0\05. TearListInHalf.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\bin\Debug\netcoreapp3.0\05. TearListInHalf.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\bin\Debug\netcoreapp3.0\05. TearListInHalf.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\bin\Debug\netcoreapp3.0\05. TearListInHalf.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\bin\Debug\netcoreapp3.0\05. TearListInHalf.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\obj\Debug\netcoreapp3.0\05. TearListInHalf.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\obj\Debug\netcoreapp3.0\05. TearListInHalf.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\obj\Debug\netcoreapp3.0\05. TearListInHalf.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\obj\Debug\netcoreapp3.0\05. TearListInHalf.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\05. TearListInHalf\obj\Debug\netcoreapp3.0\05. TearListInHalf.pdb

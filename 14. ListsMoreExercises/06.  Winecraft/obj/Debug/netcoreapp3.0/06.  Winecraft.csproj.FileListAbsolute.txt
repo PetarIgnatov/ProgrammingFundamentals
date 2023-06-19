@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\bin\Debug\netcoreapp3.0\06.  Winecraft.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\bin\Debug\netcoreapp3.0\06.  Winecraft.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\bin\Debug\netcoreapp3.0\06.  Winecraft.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\bin\Debug\netcoreapp3.0\06.  Winecraft.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\bin\Debug\netcoreapp3.0\06.  Winecraft.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\bin\Debug\netcoreapp3.0\06.  Winecraft.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\obj\Debug\netcoreapp3.0\06.  Winecraft.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\obj\Debug\netcoreapp3.0\06.  Winecraft.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\obj\Debug\netcoreapp3.0\06.  Winecraft.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\obj\Debug\netcoreapp3.0\06.  Winecraft.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\14. ListsMoreExercises\06.  Winecraft\obj\Debug\netcoreapp3.0\06.  Winecraft.pdb

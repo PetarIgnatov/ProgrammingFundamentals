@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\bin\Debug\netcoreapp3.0\01. RabbitHole.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\bin\Debug\netcoreapp3.0\01. RabbitHole.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\bin\Debug\netcoreapp3.0\01. RabbitHole.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\bin\Debug\netcoreapp3.0\01. RabbitHole.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\bin\Debug\netcoreapp3.0\01. RabbitHole.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\bin\Debug\netcoreapp3.0\01. RabbitHole.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\obj\Debug\netcoreapp3.0\01. RabbitHole.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\obj\Debug\netcoreapp3.0\01. RabbitHole.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\obj\Debug\netcoreapp3.0\01. RabbitHole.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\obj\Debug\netcoreapp3.0\01. RabbitHole.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\01. RabbitHole\obj\Debug\netcoreapp3.0\01. RabbitHole.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\bin\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\bin\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\bin\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\bin\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\bin\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\bin\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\obj\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\obj\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\obj\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\obj\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\16. ArrayAndListAlgorithmsExercises\05. DecodeRadioFrequencies\obj\Debug\netcoreapp3.0\05. DecodeRadioFrequencies.csprojAssemblyReference.cache

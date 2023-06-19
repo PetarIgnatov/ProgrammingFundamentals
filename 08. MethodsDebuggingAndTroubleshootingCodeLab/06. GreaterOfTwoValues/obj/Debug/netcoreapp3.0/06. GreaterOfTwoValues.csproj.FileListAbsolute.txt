@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\bin\Debug\netcoreapp3.0\06. GreaterOfTwoValues.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\bin\Debug\netcoreapp3.0\06. GreaterOfTwoValues.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\bin\Debug\netcoreapp3.0\06. GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\bin\Debug\netcoreapp3.0\06. GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\bin\Debug\netcoreapp3.0\06. GreaterOfTwoValues.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\bin\Debug\netcoreapp3.0\06. GreaterOfTwoValues.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\obj\Debug\netcoreapp3.0\06. GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\obj\Debug\netcoreapp3.0\06. GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\obj\Debug\netcoreapp3.0\06. GreaterOfTwoValues.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\06. GreaterOfTwoValues\obj\Debug\netcoreapp3.0\06. GreaterOfTwoValues.pdb

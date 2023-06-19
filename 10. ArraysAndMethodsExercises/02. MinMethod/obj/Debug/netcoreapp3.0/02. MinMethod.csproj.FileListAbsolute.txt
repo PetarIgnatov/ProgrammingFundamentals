@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\bin\Debug\netcoreapp3.0\02. MinMethod.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\bin\Debug\netcoreapp3.0\02. MinMethod.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\bin\Debug\netcoreapp3.0\02. MinMethod.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\bin\Debug\netcoreapp3.0\02. MinMethod.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\bin\Debug\netcoreapp3.0\02. MinMethod.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\bin\Debug\netcoreapp3.0\02. MinMethod.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\obj\Debug\netcoreapp3.0\02. MinMethod.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\obj\Debug\netcoreapp3.0\02. MinMethod.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\obj\Debug\netcoreapp3.0\02. MinMethod.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\obj\Debug\netcoreapp3.0\02. MinMethod.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\02. MinMethod\obj\Debug\netcoreapp3.0\02. MinMethod.pdb

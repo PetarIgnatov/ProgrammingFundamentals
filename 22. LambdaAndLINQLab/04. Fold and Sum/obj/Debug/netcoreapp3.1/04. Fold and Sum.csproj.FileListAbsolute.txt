@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\22. LambdaAndLINQLab\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb

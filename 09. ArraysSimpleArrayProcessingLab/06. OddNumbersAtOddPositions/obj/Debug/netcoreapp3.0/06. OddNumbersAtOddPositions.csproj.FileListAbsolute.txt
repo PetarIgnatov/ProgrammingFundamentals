@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\bin\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\bin\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\bin\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\bin\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\bin\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\bin\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\obj\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\obj\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\obj\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\06. OddNumbersAtOddPositions\obj\Debug\netcoreapp3.0\06. OddNumbersAtOddPositions.pdb

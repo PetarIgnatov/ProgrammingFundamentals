@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\bin\Debug\netcoreapp3.0\04. JapaneseRoulette.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\bin\Debug\netcoreapp3.0\04. JapaneseRoulette.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\bin\Debug\netcoreapp3.0\04. JapaneseRoulette.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\bin\Debug\netcoreapp3.0\04. JapaneseRoulette.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\bin\Debug\netcoreapp3.0\04. JapaneseRoulette.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\bin\Debug\netcoreapp3.0\04. JapaneseRoulette.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\obj\Debug\netcoreapp3.0\04. JapaneseRoulette.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\obj\Debug\netcoreapp3.0\04. JapaneseRoulette.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\obj\Debug\netcoreapp3.0\04. JapaneseRoulette.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\obj\Debug\netcoreapp3.0\04. JapaneseRoulette.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\17. ArrayAndListAlgorithmsMoreExercises\04. JapaneseRoulette\obj\Debug\netcoreapp3.0\04. JapaneseRoulette.pdb

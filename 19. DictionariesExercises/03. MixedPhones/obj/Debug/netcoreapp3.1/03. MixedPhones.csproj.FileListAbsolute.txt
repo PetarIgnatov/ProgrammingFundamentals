@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\bin\Debug\netcoreapp3.1\03. MixedPhones.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\bin\Debug\netcoreapp3.1\03. MixedPhones.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\bin\Debug\netcoreapp3.1\03. MixedPhones.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\bin\Debug\netcoreapp3.1\03. MixedPhones.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\bin\Debug\netcoreapp3.1\03. MixedPhones.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\bin\Debug\netcoreapp3.1\03. MixedPhones.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\obj\Debug\netcoreapp3.1\03. MixedPhones.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\obj\Debug\netcoreapp3.1\03. MixedPhones.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\obj\Debug\netcoreapp3.1\03. MixedPhones.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\obj\Debug\netcoreapp3.1\03. MixedPhones.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\03. MixedPhones\obj\Debug\netcoreapp3.1\03. MixedPhones.pdb

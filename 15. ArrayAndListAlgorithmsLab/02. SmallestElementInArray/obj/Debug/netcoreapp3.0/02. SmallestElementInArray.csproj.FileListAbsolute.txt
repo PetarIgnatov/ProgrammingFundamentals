@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\bin\Debug\netcoreapp3.0\02. SmallestElementInArray.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\bin\Debug\netcoreapp3.0\02. SmallestElementInArray.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\bin\Debug\netcoreapp3.0\02. SmallestElementInArray.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\bin\Debug\netcoreapp3.0\02. SmallestElementInArray.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\bin\Debug\netcoreapp3.0\02. SmallestElementInArray.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\bin\Debug\netcoreapp3.0\02. SmallestElementInArray.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\obj\Debug\netcoreapp3.0\02. SmallestElementInArray.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\obj\Debug\netcoreapp3.0\02. SmallestElementInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\obj\Debug\netcoreapp3.0\02. SmallestElementInArray.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\obj\Debug\netcoreapp3.0\02. SmallestElementInArray.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\02. SmallestElementInArray\obj\Debug\netcoreapp3.0\02. SmallestElementInArray.pdb

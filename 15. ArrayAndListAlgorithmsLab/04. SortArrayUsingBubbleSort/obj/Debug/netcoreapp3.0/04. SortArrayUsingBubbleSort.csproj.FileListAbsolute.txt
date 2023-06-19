@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\bin\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\bin\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\bin\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\bin\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\bin\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\bin\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\obj\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\obj\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\obj\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\obj\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\15. ArrayAndListAlgorithmsLab\04. SortArrayUsingBubbleSort\obj\Debug\netcoreapp3.0\04. SortArrayUsingBubbleSort.pdb

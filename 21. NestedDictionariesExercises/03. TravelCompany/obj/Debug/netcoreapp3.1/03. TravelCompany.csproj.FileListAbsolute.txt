@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\bin\Debug\netcoreapp3.1\03. TravelCompany.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\bin\Debug\netcoreapp3.1\03. TravelCompany.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\bin\Debug\netcoreapp3.1\03. TravelCompany.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\bin\Debug\netcoreapp3.1\03. TravelCompany.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\bin\Debug\netcoreapp3.1\03. TravelCompany.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\bin\Debug\netcoreapp3.1\03. TravelCompany.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\obj\Debug\netcoreapp3.1\03. TravelCompany.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\obj\Debug\netcoreapp3.1\03. TravelCompany.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\obj\Debug\netcoreapp3.1\03. TravelCompany.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\obj\Debug\netcoreapp3.1\03. TravelCompany.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\03. TravelCompany\obj\Debug\netcoreapp3.1\03. TravelCompany.pdb

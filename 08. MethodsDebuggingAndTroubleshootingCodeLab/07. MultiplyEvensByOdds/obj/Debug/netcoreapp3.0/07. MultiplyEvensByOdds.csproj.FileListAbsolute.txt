@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\bin\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\bin\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\bin\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\bin\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\bin\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\bin\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\obj\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\obj\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\obj\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\obj\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\07. MultiplyEvensByOdds\obj\Debug\netcoreapp3.0\07. MultiplyEvensByOdds.csprojAssemblyReference.cache

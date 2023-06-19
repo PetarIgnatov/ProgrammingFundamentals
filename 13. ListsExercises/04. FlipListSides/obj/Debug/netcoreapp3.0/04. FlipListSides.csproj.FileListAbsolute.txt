@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\bin\Debug\netcoreapp3.0\04. FlipListSides.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\bin\Debug\netcoreapp3.0\04. FlipListSides.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\bin\Debug\netcoreapp3.0\04. FlipListSides.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\bin\Debug\netcoreapp3.0\04. FlipListSides.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\bin\Debug\netcoreapp3.0\04. FlipListSides.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\bin\Debug\netcoreapp3.0\04. FlipListSides.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\obj\Debug\netcoreapp3.0\04. FlipListSides.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\obj\Debug\netcoreapp3.0\04. FlipListSides.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\obj\Debug\netcoreapp3.0\04. FlipListSides.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\obj\Debug\netcoreapp3.0\04. FlipListSides.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\04. FlipListSides\obj\Debug\netcoreapp3.0\04. FlipListSides.pdb

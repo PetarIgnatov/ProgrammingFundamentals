@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\bin\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\bin\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\bin\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\bin\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\bin\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\bin\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\obj\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\obj\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\obj\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\obj\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\13. ListsExercises\03. EqualSumAfterExtraction\obj\Debug\netcoreapp3.0\03. EqualSumAfterExtraction.pdb

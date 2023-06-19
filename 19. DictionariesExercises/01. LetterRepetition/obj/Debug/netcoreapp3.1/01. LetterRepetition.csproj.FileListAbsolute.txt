@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\bin\Debug\netcoreapp3.1\01. LetterRepetition.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\bin\Debug\netcoreapp3.1\01. LetterRepetition.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\bin\Debug\netcoreapp3.1\01. LetterRepetition.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\bin\Debug\netcoreapp3.1\01. LetterRepetition.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\bin\Debug\netcoreapp3.1\01. LetterRepetition.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\bin\Debug\netcoreapp3.1\01. LetterRepetition.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\obj\Debug\netcoreapp3.1\01. LetterRepetition.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\obj\Debug\netcoreapp3.1\01. LetterRepetition.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\obj\Debug\netcoreapp3.1\01. LetterRepetition.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\obj\Debug\netcoreapp3.1\01. LetterRepetition.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\19. DictionariesExercises\01. LetterRepetition\obj\Debug\netcoreapp3.1\01. LetterRepetition.csprojAssemblyReference.cache

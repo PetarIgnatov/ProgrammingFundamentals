@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\bin\Debug\netcoreapp3.1\01. Wardrobe.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\bin\Debug\netcoreapp3.1\01. Wardrobe.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\bin\Debug\netcoreapp3.1\01. Wardrobe.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\bin\Debug\netcoreapp3.1\01. Wardrobe.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\bin\Debug\netcoreapp3.1\01. Wardrobe.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\bin\Debug\netcoreapp3.1\01. Wardrobe.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\obj\Debug\netcoreapp3.1\01. Wardrobe.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\obj\Debug\netcoreapp3.1\01. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\obj\Debug\netcoreapp3.1\01. Wardrobe.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\obj\Debug\netcoreapp3.1\01. Wardrobe.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\21. NestedDictionariesExercises\01. Wardrobe\obj\Debug\netcoreapp3.1\01. Wardrobe.pdb

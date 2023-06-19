@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\bin\Debug\netcoreapp3.1\02. StringDecryption.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\bin\Debug\netcoreapp3.1\02. StringDecryption.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\bin\Debug\netcoreapp3.1\02. StringDecryption.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\bin\Debug\netcoreapp3.1\02. StringDecryption.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\bin\Debug\netcoreapp3.1\02. StringDecryption.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\bin\Debug\netcoreapp3.1\02. StringDecryption.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\obj\Debug\netcoreapp3.1\02. StringDecryption.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\obj\Debug\netcoreapp3.1\02. StringDecryption.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\obj\Debug\netcoreapp3.1\02. StringDecryption.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\obj\Debug\netcoreapp3.1\02. StringDecryption.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\02. StringDecryption\obj\Debug\netcoreapp3.1\02. StringDecryption.pdb

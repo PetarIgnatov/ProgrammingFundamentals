@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\bin\Debug\netcoreapp3.1\02. RandomizeWords.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\bin\Debug\netcoreapp3.1\02. RandomizeWords.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\bin\Debug\netcoreapp3.1\02. RandomizeWords.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\bin\Debug\netcoreapp3.1\02. RandomizeWords.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\bin\Debug\netcoreapp3.1\02. RandomizeWords.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\bin\Debug\netcoreapp3.1\02. RandomizeWords.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\obj\Debug\netcoreapp3.1\02. RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\obj\Debug\netcoreapp3.1\02. RandomizeWords.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\obj\Debug\netcoreapp3.1\02. RandomizeWords.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\obj\Debug\netcoreapp3.1\02. RandomizeWords.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\02. RandomizeWords\obj\Debug\netcoreapp3.1\02. RandomizeWords.csprojAssemblyReference.cache

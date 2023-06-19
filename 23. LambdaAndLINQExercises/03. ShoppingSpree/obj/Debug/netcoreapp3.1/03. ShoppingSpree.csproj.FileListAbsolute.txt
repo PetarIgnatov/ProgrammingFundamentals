@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\bin\Debug\netcoreapp3.1\03. ShoppingSpree.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\bin\Debug\netcoreapp3.1\03. ShoppingSpree.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\bin\Debug\netcoreapp3.1\03. ShoppingSpree.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\bin\Debug\netcoreapp3.1\03. ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\bin\Debug\netcoreapp3.1\03. ShoppingSpree.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\bin\Debug\netcoreapp3.1\03. ShoppingSpree.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\obj\Debug\netcoreapp3.1\03. ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\obj\Debug\netcoreapp3.1\03. ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\obj\Debug\netcoreapp3.1\03. ShoppingSpree.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\obj\Debug\netcoreapp3.1\03. ShoppingSpree.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\23. LambdaAndLINQExercises\03. ShoppingSpree\obj\Debug\netcoreapp3.1\03. ShoppingSpree.pdb

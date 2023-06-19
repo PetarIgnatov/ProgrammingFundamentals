@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\bin\Debug\netcoreapp3.1\03. Camping.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\obj\Debug\netcoreapp3.1\03. Camping.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\obj\Debug\netcoreapp3.1\03. Camping.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\obj\Debug\netcoreapp3.1\03. Camping.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\bin\Debug\netcoreapp3.1\03. Camping.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\bin\Debug\netcoreapp3.1\03. Camping.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\bin\Debug\netcoreapp3.1\03. Camping.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\bin\Debug\netcoreapp3.1\03. Camping.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\bin\Debug\netcoreapp3.1\03. Camping.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\obj\Debug\netcoreapp3.1\03. Camping.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\24. LambdaAndLINQMoreExercises\03. Camping\obj\Debug\netcoreapp3.1\03. Camping.pdb

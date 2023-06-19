@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\bin\Debug\netcoreapp3.1\07. SalesReport.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\bin\Debug\netcoreapp3.1\07. SalesReport.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\bin\Debug\netcoreapp3.1\07. SalesReport.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\bin\Debug\netcoreapp3.1\07. SalesReport.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\bin\Debug\netcoreapp3.1\07. SalesReport.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\bin\Debug\netcoreapp3.1\07. SalesReport.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\obj\Debug\netcoreapp3.1\07. SalesReport.csprojAssemblyReference.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\obj\Debug\netcoreapp3.1\07. SalesReport.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\obj\Debug\netcoreapp3.1\07. SalesReport.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\obj\Debug\netcoreapp3.1\07. SalesReport.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\07. SalesReport\obj\Debug\netcoreapp3.1\07. SalesReport.pdb

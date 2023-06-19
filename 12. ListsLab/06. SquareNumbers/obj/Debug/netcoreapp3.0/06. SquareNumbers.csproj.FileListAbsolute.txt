@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\bin\Debug\netcoreapp3.0\06. SquareNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\bin\Debug\netcoreapp3.0\06. SquareNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\bin\Debug\netcoreapp3.0\06. SquareNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\bin\Debug\netcoreapp3.0\06. SquareNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\bin\Debug\netcoreapp3.0\06. SquareNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\bin\Debug\netcoreapp3.0\06. SquareNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\obj\Debug\netcoreapp3.0\06. SquareNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\obj\Debug\netcoreapp3.0\06. SquareNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\obj\Debug\netcoreapp3.0\06. SquareNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\12. ListsLab\06. SquareNumbers\obj\Debug\netcoreapp3.0\06. SquareNumbers.pdb

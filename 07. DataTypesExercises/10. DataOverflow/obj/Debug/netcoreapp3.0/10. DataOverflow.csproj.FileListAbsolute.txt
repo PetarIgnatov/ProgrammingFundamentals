@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\bin\Debug\netcoreapp3.0\10. DataOverflow.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\bin\Debug\netcoreapp3.0\10. DataOverflow.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\bin\Debug\netcoreapp3.0\10. DataOverflow.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\bin\Debug\netcoreapp3.0\10. DataOverflow.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\bin\Debug\netcoreapp3.0\10. DataOverflow.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\bin\Debug\netcoreapp3.0\10. DataOverflow.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\obj\Debug\netcoreapp3.0\10. DataOverflow.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\obj\Debug\netcoreapp3.0\10. DataOverflow.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\obj\Debug\netcoreapp3.0\10. DataOverflow.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\07. DataTypesExercises\10. DataOverflow\obj\Debug\netcoreapp3.0\10. DataOverflow.pdb

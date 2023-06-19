@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\bin\Debug\netcoreapp3.0\16. ArraySymmetry.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\bin\Debug\netcoreapp3.0\16. ArraySymmetry.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\bin\Debug\netcoreapp3.0\16. ArraySymmetry.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\bin\Debug\netcoreapp3.0\16. ArraySymmetry.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\bin\Debug\netcoreapp3.0\16. ArraySymmetry.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\bin\Debug\netcoreapp3.0\16. ArraySymmetry.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\obj\Debug\netcoreapp3.0\16. ArraySymmetry.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\obj\Debug\netcoreapp3.0\16. ArraySymmetry.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\obj\Debug\netcoreapp3.0\16. ArraySymmetry.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\10. ArraysAndMethodsExercises\16. ArraySymmetry\obj\Debug\netcoreapp3.0\16. ArraySymmetry.pdb

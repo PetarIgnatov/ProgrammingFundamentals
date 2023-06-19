@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\bin\Debug\netcoreapp3.0\03. SmallestElementInArray.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\bin\Debug\netcoreapp3.0\03. SmallestElementInArray.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\bin\Debug\netcoreapp3.0\03. SmallestElementInArray.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\bin\Debug\netcoreapp3.0\03. SmallestElementInArray.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\bin\Debug\netcoreapp3.0\03. SmallestElementInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\bin\Debug\netcoreapp3.0\03. SmallestElementInArray.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\obj\Debug\netcoreapp3.0\03. SmallestElementInArray.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\obj\Debug\netcoreapp3.0\03. SmallestElementInArray.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\obj\Debug\netcoreapp3.0\03. SmallestElementInArray.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\obj\Debug\netcoreapp3.0\03. SmallestElementInArray.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\09. ArraysSimpleArrayProcessingLab\03. SmallestElementInArray\obj\Debug\netcoreapp3.0\03. SmallestElementInArray.pdb

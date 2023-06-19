@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\bin\Debug\netcoreapp3.0\01. BlankReceipt.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\bin\Debug\netcoreapp3.0\01. BlankReceipt.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\bin\Debug\netcoreapp3.0\01. BlankReceipt.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\bin\Debug\netcoreapp3.0\01. BlankReceipt.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\bin\Debug\netcoreapp3.0\01. BlankReceipt.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\bin\Debug\netcoreapp3.0\01. BlankReceipt.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\obj\Debug\netcoreapp3.0\01. BlankReceipt.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\obj\Debug\netcoreapp3.0\01. BlankReceipt.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\obj\Debug\netcoreapp3.0\01. BlankReceipt.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\obj\Debug\netcoreapp3.0\01. BlankReceipt.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\08. MethodsDebuggingAndTroubleshootingCodeLab\01. BlankReceipt\obj\Debug\netcoreapp3.0\01. BlankReceipt.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\bin\Debug\netcoreapp3.1\06. RectanglePosition.exe
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\bin\Debug\netcoreapp3.1\06. RectanglePosition.deps.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\bin\Debug\netcoreapp3.1\06. RectanglePosition.runtimeconfig.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\bin\Debug\netcoreapp3.1\06. RectanglePosition.runtimeconfig.dev.json
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\bin\Debug\netcoreapp3.1\06. RectanglePosition.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\bin\Debug\netcoreapp3.1\06. RectanglePosition.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\obj\Debug\netcoreapp3.1\06. RectanglePosition.AssemblyInfoInputs.cache
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\obj\Debug\netcoreapp3.1\06. RectanglePosition.AssemblyInfo.cs
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\obj\Debug\netcoreapp3.1\06. RectanglePosition.dll
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\obj\Debug\netcoreapp3.1\06. RectanglePosition.pdb
+C:\Users\Owner\SoftUni\repos\Projects\02. ProgrammingFundamentals\25. ObjectsAndSimpleClassesLab\06. RectanglePosition\obj\Debug\netcoreapp3.1\06. RectanglePosition.csprojAssemblyReference.cache
