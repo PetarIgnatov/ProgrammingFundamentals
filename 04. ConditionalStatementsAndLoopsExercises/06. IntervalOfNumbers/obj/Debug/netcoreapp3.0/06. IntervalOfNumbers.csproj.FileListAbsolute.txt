@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\bin\Debug\netcoreapp3.0\06. IntervalOfNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\bin\Debug\netcoreapp3.0\06. IntervalOfNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\bin\Debug\netcoreapp3.0\06. IntervalOfNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\bin\Debug\netcoreapp3.0\06. IntervalOfNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\bin\Debug\netcoreapp3.0\06. IntervalOfNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\bin\Debug\netcoreapp3.0\06. IntervalOfNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\obj\Debug\netcoreapp3.0\06. IntervalOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\obj\Debug\netcoreapp3.0\06. IntervalOfNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\obj\Debug\netcoreapp3.0\06. IntervalOfNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\06. IntervalOfNumbers\obj\Debug\netcoreapp3.0\06. IntervalOfNumbers.pdb

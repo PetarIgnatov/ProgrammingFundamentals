@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\bin\Debug\netcoreapp3.0\11. 5DifferentNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\bin\Debug\netcoreapp3.0\11. 5DifferentNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\bin\Debug\netcoreapp3.0\11. 5DifferentNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\bin\Debug\netcoreapp3.0\11. 5DifferentNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\bin\Debug\netcoreapp3.0\11. 5DifferentNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\bin\Debug\netcoreapp3.0\11. 5DifferentNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\obj\Debug\netcoreapp3.0\11. 5DifferentNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\obj\Debug\netcoreapp3.0\11. 5DifferentNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\obj\Debug\netcoreapp3.0\11. 5DifferentNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\obj\Debug\netcoreapp3.0\11. 5DifferentNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\11. 5DifferentNumbers\obj\Debug\netcoreapp3.0\11. 5DifferentNumbers.csprojAssemblyReference.cache

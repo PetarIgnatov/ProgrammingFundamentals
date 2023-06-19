@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\bin\Debug\netcoreapp3.0\02. ChooseADrink2.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\bin\Debug\netcoreapp3.0\02. ChooseADrink2.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\bin\Debug\netcoreapp3.0\02. ChooseADrink2.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\bin\Debug\netcoreapp3.0\02. ChooseADrink2.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\bin\Debug\netcoreapp3.0\02. ChooseADrink2.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\bin\Debug\netcoreapp3.0\02. ChooseADrink2.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\obj\Debug\netcoreapp3.0\02. ChooseADrink2.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\obj\Debug\netcoreapp3.0\02. ChooseADrink2.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\obj\Debug\netcoreapp3.0\02. ChooseADrink2.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\obj\Debug\netcoreapp3.0\02. ChooseADrink2.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\02. ChooseADrink2\obj\Debug\netcoreapp3.0\02. ChooseADrink2.pdb

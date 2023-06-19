@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\bin\Debug\netcoreapp3.0\07. CakeIngredients.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\bin\Debug\netcoreapp3.0\07. CakeIngredients.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\bin\Debug\netcoreapp3.0\07. CakeIngredients.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\bin\Debug\netcoreapp3.0\07. CakeIngredients.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\bin\Debug\netcoreapp3.0\07. CakeIngredients.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\bin\Debug\netcoreapp3.0\07. CakeIngredients.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\obj\Debug\netcoreapp3.0\07. CakeIngredients.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\obj\Debug\netcoreapp3.0\07. CakeIngredients.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\obj\Debug\netcoreapp3.0\07. CakeIngredients.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\07. CakeIngredients\obj\Debug\netcoreapp3.0\07. CakeIngredients.pdb

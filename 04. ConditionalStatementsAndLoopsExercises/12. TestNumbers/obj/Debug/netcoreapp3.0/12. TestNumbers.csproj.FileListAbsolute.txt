@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\bin\Debug\netcoreapp3.0\12. TestNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\bin\Debug\netcoreapp3.0\12. TestNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\bin\Debug\netcoreapp3.0\12. TestNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\bin\Debug\netcoreapp3.0\12. TestNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\bin\Debug\netcoreapp3.0\12. TestNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\bin\Debug\netcoreapp3.0\12. TestNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\obj\Debug\netcoreapp3.0\12. TestNumbers.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\obj\Debug\netcoreapp3.0\12. TestNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\obj\Debug\netcoreapp3.0\12. TestNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\obj\Debug\netcoreapp3.0\12. TestNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\12. TestNumbers\obj\Debug\netcoreapp3.0\12. TestNumbers.pdb

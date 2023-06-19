@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\bin\Debug\netcoreapp3.0\03. RestaurantDiscount.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\bin\Debug\netcoreapp3.0\03. RestaurantDiscount.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\bin\Debug\netcoreapp3.0\03. RestaurantDiscount.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\bin\Debug\netcoreapp3.0\03. RestaurantDiscount.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\bin\Debug\netcoreapp3.0\03. RestaurantDiscount.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\bin\Debug\netcoreapp3.0\03. RestaurantDiscount.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\obj\Debug\netcoreapp3.0\03. RestaurantDiscount.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\obj\Debug\netcoreapp3.0\03. RestaurantDiscount.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\obj\Debug\netcoreapp3.0\03. RestaurantDiscount.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\obj\Debug\netcoreapp3.0\03. RestaurantDiscount.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\03. RestaurantDiscount\obj\Debug\netcoreapp3.0\03. RestaurantDiscount.pdb

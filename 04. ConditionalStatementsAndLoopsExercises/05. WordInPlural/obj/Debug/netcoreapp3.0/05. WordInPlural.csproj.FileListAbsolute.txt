@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\bin\Debug\netcoreapp3.0\05. WordInPlural.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\bin\Debug\netcoreapp3.0\05. WordInPlural.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\bin\Debug\netcoreapp3.0\05. WordInPlural.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\bin\Debug\netcoreapp3.0\05. WordInPlural.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\bin\Debug\netcoreapp3.0\05. WordInPlural.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\bin\Debug\netcoreapp3.0\05. WordInPlural.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\obj\Debug\netcoreapp3.0\05. WordInPlural.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\obj\Debug\netcoreapp3.0\05. WordInPlural.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\obj\Debug\netcoreapp3.0\05. WordInPlural.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\obj\Debug\netcoreapp3.0\05. WordInPlural.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\05. WordInPlural\obj\Debug\netcoreapp3.0\05. WordInPlural.pdb

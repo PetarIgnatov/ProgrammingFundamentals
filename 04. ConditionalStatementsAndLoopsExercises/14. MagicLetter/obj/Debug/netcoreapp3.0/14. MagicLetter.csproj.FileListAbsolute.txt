@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\bin\Debug\netcoreapp3.0\14. MagicLetter.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\bin\Debug\netcoreapp3.0\14. MagicLetter.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\bin\Debug\netcoreapp3.0\14. MagicLetter.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\bin\Debug\netcoreapp3.0\14. MagicLetter.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\bin\Debug\netcoreapp3.0\14. MagicLetter.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\bin\Debug\netcoreapp3.0\14. MagicLetter.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\obj\Debug\netcoreapp3.0\14. MagicLetter.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\obj\Debug\netcoreapp3.0\14. MagicLetter.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\obj\Debug\netcoreapp3.0\14. MagicLetter.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\14. MagicLetter\obj\Debug\netcoreapp3.0\14. MagicLetter.pdb

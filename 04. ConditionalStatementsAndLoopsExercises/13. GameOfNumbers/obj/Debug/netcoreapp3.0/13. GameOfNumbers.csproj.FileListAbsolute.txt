@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\bin\Debug\netcoreapp3.0\13. GameOfNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\bin\Debug\netcoreapp3.0\13. GameOfNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\bin\Debug\netcoreapp3.0\13. GameOfNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\bin\Debug\netcoreapp3.0\13. GameOfNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\bin\Debug\netcoreapp3.0\13. GameOfNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\bin\Debug\netcoreapp3.0\13. GameOfNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\obj\Debug\netcoreapp3.0\13. GameOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\obj\Debug\netcoreapp3.0\13. GameOfNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\obj\Debug\netcoreapp3.0\13. GameOfNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\13. GameOfNumbers\obj\Debug\netcoreapp3.0\13. GameOfNumbers.pdb

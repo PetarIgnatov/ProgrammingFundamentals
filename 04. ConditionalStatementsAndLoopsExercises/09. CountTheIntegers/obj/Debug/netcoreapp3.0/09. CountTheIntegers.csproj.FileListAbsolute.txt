@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\bin\Debug\netcoreapp3.0\09. CountTheIntegers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\bin\Debug\netcoreapp3.0\09. CountTheIntegers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\bin\Debug\netcoreapp3.0\09. CountTheIntegers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\bin\Debug\netcoreapp3.0\09. CountTheIntegers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\bin\Debug\netcoreapp3.0\09. CountTheIntegers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\bin\Debug\netcoreapp3.0\09. CountTheIntegers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\obj\Debug\netcoreapp3.0\09. CountTheIntegers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\obj\Debug\netcoreapp3.0\09. CountTheIntegers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\obj\Debug\netcoreapp3.0\09. CountTheIntegers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\09. CountTheIntegers\obj\Debug\netcoreapp3.0\09. CountTheIntegers.pdb

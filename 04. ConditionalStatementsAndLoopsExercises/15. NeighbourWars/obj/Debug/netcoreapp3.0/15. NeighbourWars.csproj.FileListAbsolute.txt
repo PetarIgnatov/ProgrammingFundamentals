@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\bin\Debug\netcoreapp3.0\15. NeighbourWars.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\bin\Debug\netcoreapp3.0\15. NeighbourWars.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\bin\Debug\netcoreapp3.0\15. NeighbourWars.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\bin\Debug\netcoreapp3.0\15. NeighbourWars.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\bin\Debug\netcoreapp3.0\15. NeighbourWars.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\bin\Debug\netcoreapp3.0\15. NeighbourWars.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\obj\Debug\netcoreapp3.0\15. NeighbourWars.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\obj\Debug\netcoreapp3.0\15. NeighbourWars.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\obj\Debug\netcoreapp3.0\15. NeighbourWars.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\obj\Debug\netcoreapp3.0\15. NeighbourWars.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\04. ConditionalStatementsAndLoopsExercises\15. NeighbourWars\obj\Debug\netcoreapp3.0\15. NeighbourWars.pdb
