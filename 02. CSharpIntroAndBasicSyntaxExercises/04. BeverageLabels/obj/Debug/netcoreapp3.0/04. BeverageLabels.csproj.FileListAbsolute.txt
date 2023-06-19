@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\bin\Debug\netcoreapp3.0\04. BeverageLabels.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\bin\Debug\netcoreapp3.0\04. BeverageLabels.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\bin\Debug\netcoreapp3.0\04. BeverageLabels.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\bin\Debug\netcoreapp3.0\04. BeverageLabels.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\bin\Debug\netcoreapp3.0\04. BeverageLabels.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\bin\Debug\netcoreapp3.0\04. BeverageLabels.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\obj\Debug\netcoreapp3.0\04. BeverageLabels.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\obj\Debug\netcoreapp3.0\04. BeverageLabels.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\obj\Debug\netcoreapp3.0\04. BeverageLabels.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\obj\Debug\netcoreapp3.0\04. BeverageLabels.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\04. BeverageLabels\obj\Debug\netcoreapp3.0\04. BeverageLabels.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\bin\Debug\netcoreapp3.0\02. RectangleArea.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\bin\Debug\netcoreapp3.0\02. RectangleArea.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\bin\Debug\netcoreapp3.0\02. RectangleArea.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\bin\Debug\netcoreapp3.0\02. RectangleArea.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\bin\Debug\netcoreapp3.0\02. RectangleArea.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\bin\Debug\netcoreapp3.0\02. RectangleArea.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\obj\Debug\netcoreapp3.0\02. RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\obj\Debug\netcoreapp3.0\02. RectangleArea.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\obj\Debug\netcoreapp3.0\02. RectangleArea.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\02. RectangleArea\obj\Debug\netcoreapp3.0\02. RectangleArea.pdb

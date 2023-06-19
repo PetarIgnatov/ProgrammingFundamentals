@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\bin\Debug\netcoreapp3.0\01. DebitCardNumber.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\bin\Debug\netcoreapp3.0\01. DebitCardNumber.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\bin\Debug\netcoreapp3.0\01. DebitCardNumber.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\bin\Debug\netcoreapp3.0\01. DebitCardNumber.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\bin\Debug\netcoreapp3.0\01. DebitCardNumber.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\bin\Debug\netcoreapp3.0\01. DebitCardNumber.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\obj\Debug\netcoreapp3.0\01. DebitCardNumber.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\obj\Debug\netcoreapp3.0\01. DebitCardNumber.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\obj\Debug\netcoreapp3.0\01. DebitCardNumber.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\01. DebitCardNumber\obj\Debug\netcoreapp3.0\01. DebitCardNumber.pdb

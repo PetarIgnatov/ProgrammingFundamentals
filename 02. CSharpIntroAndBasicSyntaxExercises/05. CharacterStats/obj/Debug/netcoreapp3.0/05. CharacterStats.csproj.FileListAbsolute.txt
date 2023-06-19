@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\bin\Debug\netcoreapp3.0\05. CharacterStats.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\bin\Debug\netcoreapp3.0\05. CharacterStats.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\bin\Debug\netcoreapp3.0\05. CharacterStats.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\bin\Debug\netcoreapp3.0\05. CharacterStats.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\bin\Debug\netcoreapp3.0\05. CharacterStats.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\bin\Debug\netcoreapp3.0\05. CharacterStats.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\obj\Debug\netcoreapp3.0\05. CharacterStats.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\obj\Debug\netcoreapp3.0\05. CharacterStats.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\obj\Debug\netcoreapp3.0\05. CharacterStats.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\05. CharacterStats\obj\Debug\netcoreapp3.0\05. CharacterStats.pdb

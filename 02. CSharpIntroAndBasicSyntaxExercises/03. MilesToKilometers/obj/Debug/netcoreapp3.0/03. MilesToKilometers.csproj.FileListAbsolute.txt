@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\bin\Debug\netcoreapp3.0\03. MilesToKilometers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\bin\Debug\netcoreapp3.0\03. MilesToKilometers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\bin\Debug\netcoreapp3.0\03. MilesToKilometers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\bin\Debug\netcoreapp3.0\03. MilesToKilometers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\bin\Debug\netcoreapp3.0\03. MilesToKilometers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\bin\Debug\netcoreapp3.0\03. MilesToKilometers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\obj\Debug\netcoreapp3.0\03. MilesToKilometers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\obj\Debug\netcoreapp3.0\03. MilesToKilometers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\obj\Debug\netcoreapp3.0\03. MilesToKilometers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\02. CSharpIntroAndBasicSyntaxExercises\03. MilesToKilometers\obj\Debug\netcoreapp3.0\03. MilesToKilometers.pdb
