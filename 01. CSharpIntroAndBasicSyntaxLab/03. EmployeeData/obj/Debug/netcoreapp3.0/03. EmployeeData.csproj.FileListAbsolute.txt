@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\bin\Debug\netcoreapp3.0\03. EmployeeData.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\bin\Debug\netcoreapp3.0\03. EmployeeData.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\bin\Debug\netcoreapp3.0\03. EmployeeData.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\bin\Debug\netcoreapp3.0\03. EmployeeData.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\bin\Debug\netcoreapp3.0\03. EmployeeData.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\bin\Debug\netcoreapp3.0\03. EmployeeData.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\obj\Debug\netcoreapp3.0\03. EmployeeData.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\obj\Debug\netcoreapp3.0\03. EmployeeData.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\obj\Debug\netcoreapp3.0\03. EmployeeData.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\obj\Debug\netcoreapp3.0\03. EmployeeData.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\03. EmployeeData\obj\Debug\netcoreapp3.0\03. EmployeeData.pdb

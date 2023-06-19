@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\bin\Debug\netcoreapp3.0\02. AddTwoNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\bin\Debug\netcoreapp3.0\02. AddTwoNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\bin\Debug\netcoreapp3.0\02. AddTwoNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\bin\Debug\netcoreapp3.0\02. AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\bin\Debug\netcoreapp3.0\02. AddTwoNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\bin\Debug\netcoreapp3.0\02. AddTwoNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\obj\Debug\netcoreapp3.0\02. AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\obj\Debug\netcoreapp3.0\02. AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\obj\Debug\netcoreapp3.0\02. AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\obj\Debug\netcoreapp3.0\02. AddTwoNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\01. CSharpIntroAndBasicSyntaxLab\02. AddTwoNumbers\obj\Debug\netcoreapp3.0\02. AddTwoNumbers.pdb
