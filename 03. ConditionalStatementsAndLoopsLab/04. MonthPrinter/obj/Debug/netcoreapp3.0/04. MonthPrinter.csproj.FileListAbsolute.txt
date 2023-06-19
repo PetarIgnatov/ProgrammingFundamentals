@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\bin\Debug\netcoreapp3.0\04. MonthPrinter.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\bin\Debug\netcoreapp3.0\04. MonthPrinter.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\bin\Debug\netcoreapp3.0\04. MonthPrinter.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\bin\Debug\netcoreapp3.0\04. MonthPrinter.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\bin\Debug\netcoreapp3.0\04. MonthPrinter.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\bin\Debug\netcoreapp3.0\04. MonthPrinter.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\obj\Debug\netcoreapp3.0\04. MonthPrinter.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\obj\Debug\netcoreapp3.0\04. MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\obj\Debug\netcoreapp3.0\04. MonthPrinter.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\obj\Debug\netcoreapp3.0\04. MonthPrinter.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\04. MonthPrinter\obj\Debug\netcoreapp3.0\04. MonthPrinter.pdb

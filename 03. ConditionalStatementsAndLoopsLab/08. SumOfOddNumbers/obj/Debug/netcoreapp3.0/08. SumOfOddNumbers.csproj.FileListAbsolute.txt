@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\bin\Debug\netcoreapp3.0\08. SumOfOddNumbers.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\bin\Debug\netcoreapp3.0\08. SumOfOddNumbers.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\bin\Debug\netcoreapp3.0\08. SumOfOddNumbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\bin\Debug\netcoreapp3.0\08. SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\bin\Debug\netcoreapp3.0\08. SumOfOddNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\bin\Debug\netcoreapp3.0\08. SumOfOddNumbers.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\obj\Debug\netcoreapp3.0\08. SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\obj\Debug\netcoreapp3.0\08. SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\obj\Debug\netcoreapp3.0\08. SumOfOddNumbers.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\08. SumOfOddNumbers\obj\Debug\netcoreapp3.0\08. SumOfOddNumbers.pdb

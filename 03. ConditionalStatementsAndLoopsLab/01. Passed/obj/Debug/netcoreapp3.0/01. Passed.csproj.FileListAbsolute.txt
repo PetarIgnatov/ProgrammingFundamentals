@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\bin\Debug\netcoreapp3.0\01. Passed.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\bin\Debug\netcoreapp3.0\01. Passed.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\bin\Debug\netcoreapp3.0\01. Passed.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\bin\Debug\netcoreapp3.0\01. Passed.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\bin\Debug\netcoreapp3.0\01. Passed.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\bin\Debug\netcoreapp3.0\01. Passed.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\obj\Debug\netcoreapp3.0\01. Passed.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\obj\Debug\netcoreapp3.0\01. Passed.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\obj\Debug\netcoreapp3.0\01. Passed.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\obj\Debug\netcoreapp3.0\01. Passed.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\01. Passed\obj\Debug\netcoreapp3.0\01. Passed.pdb

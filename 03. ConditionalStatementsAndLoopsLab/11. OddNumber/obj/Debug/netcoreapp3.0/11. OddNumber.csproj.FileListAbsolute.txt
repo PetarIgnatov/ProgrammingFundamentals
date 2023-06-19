@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\bin\Debug\netcoreapp3.0\11. OddNumber.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\bin\Debug\netcoreapp3.0\11. OddNumber.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\bin\Debug\netcoreapp3.0\11. OddNumber.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\bin\Debug\netcoreapp3.0\11. OddNumber.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\bin\Debug\netcoreapp3.0\11. OddNumber.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\bin\Debug\netcoreapp3.0\11. OddNumber.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\obj\Debug\netcoreapp3.0\11. OddNumber.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\obj\Debug\netcoreapp3.0\11. OddNumber.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\obj\Debug\netcoreapp3.0\11. OddNumber.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\11. OddNumber\obj\Debug\netcoreapp3.0\11. OddNumber.pdb

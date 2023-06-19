@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\bin\Debug\netcoreapp3.0\09. MultiplicationTable.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\bin\Debug\netcoreapp3.0\09. MultiplicationTable.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\bin\Debug\netcoreapp3.0\09. MultiplicationTable.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\bin\Debug\netcoreapp3.0\09. MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\bin\Debug\netcoreapp3.0\09. MultiplicationTable.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\bin\Debug\netcoreapp3.0\09. MultiplicationTable.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\obj\Debug\netcoreapp3.0\09. MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\obj\Debug\netcoreapp3.0\09. MultiplicationTable.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\obj\Debug\netcoreapp3.0\09. MultiplicationTable.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\09. MultiplicationTable\obj\Debug\netcoreapp3.0\09. MultiplicationTable.pdb

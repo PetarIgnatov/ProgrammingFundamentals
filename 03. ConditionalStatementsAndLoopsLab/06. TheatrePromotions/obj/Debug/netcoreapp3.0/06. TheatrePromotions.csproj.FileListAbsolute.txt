@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\obj\Debug\netcoreapp3.0\06. TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\obj\Debug\netcoreapp3.0\06. TheatrePromotions.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\bin\Debug\netcoreapp3.0\06. TheatrePromotions.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\bin\Debug\netcoreapp3.0\06. TheatrePromotions.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\bin\Debug\netcoreapp3.0\06. TheatrePromotions.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\bin\Debug\netcoreapp3.0\06. TheatrePromotions.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\bin\Debug\netcoreapp3.0\06. TheatrePromotions.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\bin\Debug\netcoreapp3.0\06. TheatrePromotions.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\obj\Debug\netcoreapp3.0\06. TheatrePromotions.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\06. TheatrePromotions\obj\Debug\netcoreapp3.0\06. TheatrePromotions.pdb

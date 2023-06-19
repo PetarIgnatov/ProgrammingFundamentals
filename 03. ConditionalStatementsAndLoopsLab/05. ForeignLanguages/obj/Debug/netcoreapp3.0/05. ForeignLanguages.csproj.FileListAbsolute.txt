@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\bin\Debug\netcoreapp3.0\05. ForeignLanguages.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\bin\Debug\netcoreapp3.0\05. ForeignLanguages.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\bin\Debug\netcoreapp3.0\05. ForeignLanguages.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\bin\Debug\netcoreapp3.0\05. ForeignLanguages.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\bin\Debug\netcoreapp3.0\05. ForeignLanguages.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\bin\Debug\netcoreapp3.0\05. ForeignLanguages.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\obj\Debug\netcoreapp3.0\05. ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\obj\Debug\netcoreapp3.0\05. ForeignLanguages.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\obj\Debug\netcoreapp3.0\05. ForeignLanguages.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\05. ForeignLanguages\obj\Debug\netcoreapp3.0\05. ForeignLanguages.pdb

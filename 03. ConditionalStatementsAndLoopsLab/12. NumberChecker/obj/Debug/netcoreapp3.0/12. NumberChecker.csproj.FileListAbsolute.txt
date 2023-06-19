@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\bin\Debug\netcoreapp3.0\12. NumberChecker.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\bin\Debug\netcoreapp3.0\12. NumberChecker.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\bin\Debug\netcoreapp3.0\12. NumberChecker.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\bin\Debug\netcoreapp3.0\12. NumberChecker.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\bin\Debug\netcoreapp3.0\12. NumberChecker.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\bin\Debug\netcoreapp3.0\12. NumberChecker.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\obj\Debug\netcoreapp3.0\12. NumberChecker.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\obj\Debug\netcoreapp3.0\12. NumberChecker.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\obj\Debug\netcoreapp3.0\12. NumberChecker.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\12. NumberChecker\obj\Debug\netcoreapp3.0\12. NumberChecker.pdb

@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\obj\Debug\netcoreapp3.0\07. DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\obj\Debug\netcoreapp3.0\07. DivisibleBy3.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\bin\Debug\netcoreapp3.0\07. DivisibleBy3.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\bin\Debug\netcoreapp3.0\07. DivisibleBy3.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\bin\Debug\netcoreapp3.0\07. DivisibleBy3.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\bin\Debug\netcoreapp3.0\07. DivisibleBy3.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\bin\Debug\netcoreapp3.0\07. DivisibleBy3.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\bin\Debug\netcoreapp3.0\07. DivisibleBy3.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\obj\Debug\netcoreapp3.0\07. DivisibleBy3.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\03. ConditionalStatementsAndLoopsLab\07. DivisibleBy3\obj\Debug\netcoreapp3.0\07. DivisibleBy3.pdb
