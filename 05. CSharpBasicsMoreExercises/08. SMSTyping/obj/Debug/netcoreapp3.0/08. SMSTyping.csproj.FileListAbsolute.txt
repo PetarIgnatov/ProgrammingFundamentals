@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\bin\Debug\netcoreapp3.0\08. SMSTyping.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\bin\Debug\netcoreapp3.0\08. SMSTyping.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\bin\Debug\netcoreapp3.0\08. SMSTyping.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\bin\Debug\netcoreapp3.0\08. SMSTyping.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\bin\Debug\netcoreapp3.0\08. SMSTyping.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\bin\Debug\netcoreapp3.0\08. SMSTyping.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\obj\Debug\netcoreapp3.0\08. SMSTyping.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\obj\Debug\netcoreapp3.0\08. SMSTyping.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\obj\Debug\netcoreapp3.0\08. SMSTyping.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\obj\Debug\netcoreapp3.0\08. SMSTyping.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\08. SMSTyping\obj\Debug\netcoreapp3.0\08. SMSTyping.pdb

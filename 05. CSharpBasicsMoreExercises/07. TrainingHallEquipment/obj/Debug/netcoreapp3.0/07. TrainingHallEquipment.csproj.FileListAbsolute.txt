@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\bin\Debug\netcoreapp3.0\07. TrainingHallEquipment.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\bin\Debug\netcoreapp3.0\07. TrainingHallEquipment.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\bin\Debug\netcoreapp3.0\07. TrainingHallEquipment.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\bin\Debug\netcoreapp3.0\07. TrainingHallEquipment.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\bin\Debug\netcoreapp3.0\07. TrainingHallEquipment.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\bin\Debug\netcoreapp3.0\07. TrainingHallEquipment.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\obj\Debug\netcoreapp3.0\07. TrainingHallEquipment.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\obj\Debug\netcoreapp3.0\07. TrainingHallEquipment.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\obj\Debug\netcoreapp3.0\07. TrainingHallEquipment.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\obj\Debug\netcoreapp3.0\07. TrainingHallEquipment.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\07. TrainingHallEquipment\obj\Debug\netcoreapp3.0\07. TrainingHallEquipment.pdb

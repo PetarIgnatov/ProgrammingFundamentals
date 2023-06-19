@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\bin\Debug\netcoreapp3.0\02. PMCounter.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\bin\Debug\netcoreapp3.0\02. PMCounter.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\bin\Debug\netcoreapp3.0\02. PMCounter.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\bin\Debug\netcoreapp3.0\02. PMCounter.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\bin\Debug\netcoreapp3.0\02. PMCounter.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\bin\Debug\netcoreapp3.0\02. PMCounter.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\obj\Debug\netcoreapp3.0\02. PMCounter.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\obj\Debug\netcoreapp3.0\02. PMCounter.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\obj\Debug\netcoreapp3.0\02. PMCounter.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\obj\Debug\netcoreapp3.0\02. PMCounter.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. PMCounter\obj\Debug\netcoreapp3.0\02. PMCounter.pdb

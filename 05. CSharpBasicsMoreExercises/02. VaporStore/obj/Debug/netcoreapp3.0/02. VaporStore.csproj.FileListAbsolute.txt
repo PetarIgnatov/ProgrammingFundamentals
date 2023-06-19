@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\bin\Debug\netcoreapp3.0\02. VaporStore.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\bin\Debug\netcoreapp3.0\02. VaporStore.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\bin\Debug\netcoreapp3.0\02. VaporStore.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\bin\Debug\netcoreapp3.0\02. VaporStore.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\bin\Debug\netcoreapp3.0\02. VaporStore.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\bin\Debug\netcoreapp3.0\02. VaporStore.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\obj\Debug\netcoreapp3.0\02. VaporStore.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\obj\Debug\netcoreapp3.0\02. VaporStore.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\obj\Debug\netcoreapp3.0\02. VaporStore.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\obj\Debug\netcoreapp3.0\02. VaporStore.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\02. VaporStore\obj\Debug\netcoreapp3.0\02. VaporStore.pdb

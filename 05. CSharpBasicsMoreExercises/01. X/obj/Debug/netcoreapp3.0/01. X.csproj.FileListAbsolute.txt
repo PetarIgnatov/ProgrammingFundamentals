@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\bin\Debug\netcoreapp3.0\01. X.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\bin\Debug\netcoreapp3.0\01. X.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\bin\Debug\netcoreapp3.0\01. X.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\bin\Debug\netcoreapp3.0\01. X.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\bin\Debug\netcoreapp3.0\01. X.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\bin\Debug\netcoreapp3.0\01. X.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\obj\Debug\netcoreapp3.0\01. X.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\obj\Debug\netcoreapp3.0\01. X.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\obj\Debug\netcoreapp3.0\01. X.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\01. X\obj\Debug\netcoreapp3.0\01. X.pdb

@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\bin\Debug\netcoreapp3.0\03. Megapixels.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\bin\Debug\netcoreapp3.0\03. Megapixels.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\bin\Debug\netcoreapp3.0\03. Megapixels.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\bin\Debug\netcoreapp3.0\03. Megapixels.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\bin\Debug\netcoreapp3.0\03. Megapixels.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\bin\Debug\netcoreapp3.0\03. Megapixels.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\obj\Debug\netcoreapp3.0\03. Megapixels.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\obj\Debug\netcoreapp3.0\03. Megapixels.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\obj\Debug\netcoreapp3.0\03. Megapixels.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\obj\Debug\netcoreapp3.0\03. Megapixels.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\03. Megapixels\obj\Debug\netcoreapp3.0\03. Megapixels.pdb

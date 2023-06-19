@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "08. SMSTyping/1.0.0": {
+        "runtime": {
+          "08. SMSTyping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08. SMSTyping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

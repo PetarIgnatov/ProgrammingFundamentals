@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\bin\Debug\netcoreapp3.0\06. DNASequences.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\bin\Debug\netcoreapp3.0\06. DNASequences.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\bin\Debug\netcoreapp3.0\06. DNASequences.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\bin\Debug\netcoreapp3.0\06. DNASequences.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\bin\Debug\netcoreapp3.0\06. DNASequences.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\bin\Debug\netcoreapp3.0\06. DNASequences.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\obj\Debug\netcoreapp3.0\06. DNASequences.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\obj\Debug\netcoreapp3.0\06. DNASequences.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\obj\Debug\netcoreapp3.0\06. DNASequences.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\obj\Debug\netcoreapp3.0\06. DNASequences.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\06. DNASequences\obj\Debug\netcoreapp3.0\06. DNASequences.csprojAssemblyReference.cache

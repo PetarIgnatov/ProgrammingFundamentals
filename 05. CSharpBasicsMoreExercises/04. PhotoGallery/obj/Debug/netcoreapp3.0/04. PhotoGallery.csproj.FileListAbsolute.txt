@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\bin\Debug\netcoreapp3.0\04. PhotoGallery.exe
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\bin\Debug\netcoreapp3.0\04. PhotoGallery.deps.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\bin\Debug\netcoreapp3.0\04. PhotoGallery.runtimeconfig.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\bin\Debug\netcoreapp3.0\04. PhotoGallery.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\bin\Debug\netcoreapp3.0\04. PhotoGallery.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\bin\Debug\netcoreapp3.0\04. PhotoGallery.pdb
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\obj\Debug\netcoreapp3.0\04. PhotoGallery.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\obj\Debug\netcoreapp3.0\04. PhotoGallery.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\obj\Debug\netcoreapp3.0\04. PhotoGallery.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\obj\Debug\netcoreapp3.0\04. PhotoGallery.dll
+C:\Users\Owner\source\repos\Projects\02. ProgrammingFundamentals\05. CSharpBasicsMoreExercises\04. PhotoGallery\obj\Debug\netcoreapp3.0\04. PhotoGallery.pdb
